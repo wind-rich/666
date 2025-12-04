@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2025-12-04 14:32:06（北京时间）
+! Version: 2025-12-04 20:43:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27587
+! Total count: 27591
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10011,6 +10011,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*pangolin*toutiao*.com^
 ||*pglstatp-toutiao.com^
 ||*snscosdownload*^
+||*stun.kugou.com^
 ||*tianmu.mobi^
 ||*umeng.com^
 ||*unityads.unity3d.com^
@@ -22179,6 +22180,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pss.alicdn.com^
 ||pstatp.com/growth/fe_sdk/bannersdk
 ||pstatp.com/toutiao/push.js
+||pstun.kugou.com^
 ||pstvvb.xyz^
 ||ptauxofi.net^
 ||ptdrw.com^
@@ -24051,7 +24053,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||strip.alicdn.com^
 ||strip.taobaocdn.com^
 ||studylabs.cn^
+||stun.*.kugou.com^
 ||stun.hitv.com^
+||stun.kugou.com^
 ||stun.syncthing.net^
 ||stunthedge.com^
 ||style-browse-openapi.test.gifshow.com^
