@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2025-12-12 02:30:47（北京时间）
+! Version: 2025-12-12 09:41:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27584
+! Total count: 27592
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6589,6 +6589,7 @@
 103.99.35.250 jp.static.mega.co.nz
 103.99.35.251 sg.static.mega.co.nz
 108.138.246.125 api.themoviedb.org
+108.177.104.188     alt7-mtalk.google.com
 108.177.125.188 alt4-mtalk.google.com
 108.177.125.188 mtalk.google.com  #台湾
 108.177.97.188 alt2-mtalk.google.com
@@ -6619,8 +6620,12 @@
 140.82.113.22 central.github.com
 140.82.113.26 alive.github.com
 142.250.107.188 alt5-mtalk.google.com #US
+142.250.115.188     alt6-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com #US
+142.250.141.188     alt2-mtalk.google.com
+142.250.152.188     alt8-mtalk.google.com
 142.250.152.188 alt7-mtalk.google.com #US
+142.250.157.188     mtalk.google.com
 142.250.157.188 alt5-mtalk.google.com
 142.251.10.188 alt3-mtalk.google.com #JP
 142.251.10.188 alt7-mtalk.google.com
@@ -6635,7 +6640,10 @@
 163.com##.freeVip
 163.com##.js-open-app
 169.150.249.166 image.tmdb.org
+173.194.202.188     alt4-mtalk.google.com
 18.65.159.31 api.themoviedb.org
+180.163.150.33      dl.l.google.com
+180.163.151.161     dl.google.com
 182.239.104.89 bigota.d.miui.com
 182.239.104.89 hugeota.d.miui.com
 183.136.207.132 bigota.d.miui.com
@@ -6720,6 +6728,7 @@
 54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
 5dm.app##[src*="sinaimg.cn"]
+64.233.171.188      alt3-mtalk.google.com
 64.233.188.188 mtalk.google.com
 64.233.189.188 alt1-mtalk.google.com
 65.8.164.121 image.tmdb.org
@@ -6742,6 +6751,8 @@
 72.247.96.248 trk.pinterest.com
 72.247.96.248 v1.pinimg.com
 72.247.96.248 www.pinterest.com
+74.125.126.188      alt5-mtalk.google.com
+74.125.200.188      alt1-mtalk.google.com
 74.125.200.188 alt2-mtalk.google.com #SG
 74.125.200.188 alt8-mtalk.google.com
 74.125.204.188 alt3-mtalk.google.com
@@ -6765,8 +6776,6 @@
 :8008/*/*?is_not=
 :8891/v*$third-party
 ::1 ip6-localhost
-</body></html>
-<html><body><h1>504 Gateway Time-out</h1>
 ?adspot_
 ?local_ga_js=
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -9341,7 +9350,6 @@
 @@||zodgame.xyz^
 @@||ztgame.com^
 Mplay/kk1.js
-The server didn't respond in time.
 _/bigREDcat.css?
 _/bigREDdog.js
 _300x250.js
