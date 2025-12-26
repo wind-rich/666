@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2025-12-26 09:41:55（北京时间）
+! Version: 2025-12-26 14:32:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27609
+! Total count: 27617
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -9813,6 +9813,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.8vx3zks.xyz^
 ||*.9tjoj6.com^
 ||*.a48962121.top^
+||*.acdnrvh.com^
 ||*.ads.heytapmobi.com^
 ||*.ads.huawei.com.au^
 ||*.ads.huawei.com^
@@ -9873,10 +9874,13 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.jjoiw4.com^
 ||*.jjzemoc3ca.top^
 ||*.jqnljze.xyz^
+||*.jtkkkxy.com^
 ||*.juicyads.me^
 ||*.jvere.xyz^
 ||*.jwcnmta.top^
+||*.jyzkhdq.com^
 ||*.kbddftp.cn^
+||*.khmhvlw.com^
 ||*.kweisid.top^
 ||*.kwilmid.top^
 ||*.kxayxw.cn^
@@ -9907,6 +9911,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.p2p.huya.com^
 ||*.p3q0tt.com^
 ||*.phire.cn^
+||*.pioeaig.com^
 ||*.pl1n06.com^
 ||*.pnwix.cn^
 ||*.poeme.cn^
@@ -11513,6 +11518,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.rednet.cn^
 ||ad.reklamport.com^
 ||ad.richmob.cn^
+||ad.scdn.io^
 ||ad.search.ch^
 ||ad.seeyouyima.com^
 ||ad.sensismediasmart.com.au^
@@ -15226,6 +15232,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dfgymtx.icu^
 ||dfjd.xyz^
 ||dfkd.xyz^
+||dfsj8050.ahyyxpk.com^
 ||dfstt5031.ayhnb.cn^
 ||dfsvhv88.com^
 ||dfx.shhuixiangwuliu.com^
@@ -26186,6 +26193,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.claiks.com^
 ||www.dahe6f.com^
 ||www.dayangfa.com^
+||www.dbhsgxh.com^
 ||www.deifei.com^
 ||www.dgtauto.com^
 ||www.diyuxa.com^
