@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-02-18 15:01:37（北京时间）
+! Version: 2026-02-18 21:04:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16775
+! Total count: 16777
 # AdClose 专用广告规则
-# 生成时间: 2026-02-18 07:01:36（北京时间）
+# 生成时间: 2026-02-18 13:04:13（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5137,10 +5137,12 @@ domain, dnrf0215.com
 domain, dns.jd.com
 domain, dns.qiyipic.iqiyi.com
 domain, dns.qq.com
+domain, dns.wechat.com
 domain, dns.weibo.cn
 domain, dns.weixin.qq.com
 domain, dns.weixin.qq.com.cn
 domain, dns2.q2cdn.com
+domain, dns2.titannetwork.cn
 domain, dnvus.com
 domain, dnyzbp.cn
 domain, dnzmhr.xyz
@@ -6424,7 +6426,6 @@ domain, gaszfc.moo39829.net
 domain, gatecollect.kugou.com
 domain, gateway.fortunelounge.com
 domain, gateways.s3.amazonaws.com
-domain, gator.volces.com
 domain, gb.corp.163.com
 domain, gbcnvip15.com
 domain, gbrtyhnsc.xyz
@@ -7210,6 +7211,7 @@ domain, httpdns.c.cdnhwc2.com
 domain, httpdns.calorietech.com
 domain, httpdns.cctv.com
 domain, httpdns.danuoyi.tbcache.com
+domain, httpdns.gslb.yy.com
 domain, httpdns.huaweicloud.com
 domain, httpdns.kg.qq.com
 domain, httpdns.kwd.inkuai.com
@@ -9212,6 +9214,7 @@ domain, logger.baofeng.com
 domain, logger.qingting.fm
 domain, logger.treexml.baofeng.com
 domain, loggw.alipay.com.cn
+domain, loggw.alipaydns.com
 domain, lognew.cloooud.com
 domain, logonext.tv.kuyun.com
 domain, logos.kiwibrowser.com
@@ -11479,7 +11482,6 @@ domain, polaris3-normal-lq.zijieapi.com
 domain, polaris5-normal-hl.zijieapi.com
 domain, polaris5-normal-lq.zijieapi.com
 domain, polfaqgvsd.net
-domain, policy.video.iqiyi.com
 domain, policy.video.ptqy.gitv.tv
 domain, polkkqm.com
 domain, polkmerth.com
