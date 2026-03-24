@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-03-24 15:04:07（北京时间）
+! Version: 2026-03-24 21:12:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 28125
+! Total count: 28186
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6897,6 +6897,8 @@
 @@||account.agiso.com^
 @@||account.dianping.com^
 @@||account.huawei.com^
+@@||account.oneplus.com^
+@@||account.oneplus.net^
 @@||account.oppo.com^
 @@||account.realme.com^
 @@||account.vivo.com^
@@ -6905,6 +6907,7 @@
 @@||account.xiaomi.com^
 @@||account.youku.com^
 @@||accountapi.dianping.com^
+@@||accounts.google.com^
 @@||accscdn.m.taobao.com^
 @@||accscdn4public.m.taobao.com^
 @@||acg02.cc^
@@ -6968,6 +6971,8 @@
 @@||android-apps.pp.cn^
 @@||android-artworks.25pp.com^
 @@||android.bugly.qq.com^
+@@||android.clients.google.com^
+@@||android.googleapis.com^
 @@||animerep.com^
 @@||annas-archive.org^
 @@||antivirus.vivo.com^
@@ -7088,6 +7093,8 @@
 @@||app.home.360.cn^
 @@||app.huabao.360.cn^
 @@||app.market.xiaomi.com^
+@@||app.oneplus.com^
+@@||app.oneplus.net^
 @@||app.toutiao.com^
 @@||app.zhuanzhuan.com^
 @@||appcenter.ms^
@@ -7156,6 +7163,8 @@
 @@||b3log.org^
 @@||b3logfile.com^
 @@||backup.huawei.com^
+@@||backup.oneplus.com^
+@@||backup.oneplus.net^
 @@||bad.news^
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
@@ -7370,6 +7379,7 @@
 @@||cloud.heytap.com^
 @@||cloud.huawei.com^
 @@||cloud.oneplus.com^
+@@||cloud.oneplus.net^
 @@||cloud.oppo.com^
 @@||cloud.realme.com^
 @@||cloud.video.taobao.com^
@@ -7407,6 +7417,7 @@
 @@||community.akamai.steamstatic.com^
 @@||community.fastly.steamstatic.com^
 @@||community.image.video.qpic.cn^
+@@||community.oneplus.com^
 @@||components.unrealengine.com^
 @@||computemaster.bxcearth.com^
 @@||conf.hpplay.cn^
@@ -7571,6 +7582,7 @@
 @@||dorado.xiaojukeji.com^
 @@||doris.yidianzixun.com^
 @@||dot.360.cn^
+@@||doubleclick.net^
 @@||douyincdn.com^
 @@||down-update.qq.com^
 @@||down.360safe.com^
@@ -7585,6 +7597,8 @@
 @@||download.deepseek.com^
 @@||download.heytap.com^
 @@||download.jetbrains.com^
+@@||download.oneplus.com^
+@@||download.oneplus.net^
 @@||download.oppo.com^
 @@||download.pinduoduo.com^
 @@||download.uc.cn^
@@ -7730,6 +7744,8 @@
 @@||finderpdd.video.qq.com^
 @@||findphone.vivo.com.cn^
 @@||fino.svc.litv.tv^
+@@||firebase.googleapis.com^
+@@||firebaseio.com^
 @@||firmware.realme.com^
 @@||flash.sec.intl.miui.com^
 @@||flash.sec.miui.com^
@@ -7738,6 +7754,9 @@
 @@||fmip.icloud.com^
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
+@@||forums.oneplus.com^
+@@||fota.oneplus.com^
+@@||fota.oneplus.net^
 @@||foundation.youdao.com^
 @@||fourhoi.com^
 @@||fourier-videoclip-eu.allawnos.com^
@@ -7780,6 +7799,8 @@
 @@||gameimg.qidian.com^
 @@||games-community-gl.heytapmobile.com^
 @@||games.mobileapi.hupu.com^
+@@||games.oneplus.com^
+@@||games.oneplus.net^
 @@||gamezop.com^
 @@||gateway.kugou.com^
 @@||gator.volces.com^
@@ -7816,7 +7837,9 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||google-analytics.com^
 @@||googleadservices.com^
+@@||googletagmanager.com^
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||groupprohead.gtimg.cn^
@@ -7879,6 +7902,7 @@
 @@||health.huawei.com^
 @@||healthkit.huawei.com^
 @@||hectorstatic.baidu.com^
+@@||help.oneplus.com^
 @@||help.twitter.com^
 @@||help.x.com^
 @@||hentaihand.com^
@@ -8353,6 +8377,8 @@
 @@||market.heytap.com^
 @@||market.m.taobao.com^
 @@||market.mi-img.com^
+@@||market.oneplus.com^
+@@||market.oneplus.net^
 @@||market.waimai.meituan.com^
 @@||market.xiaomi.com^
 @@||marketplace.huaweicloud.com^
@@ -8536,6 +8562,8 @@
 @@||north-plus.net^
 @@||notes.icloud.com^
 @@||notification.vivo.com^
+@@||notify.oneplus.com^
+@@||notify.oneplus.net^
 @@||notify.youku.com^
 @@||novelfm.changdunovel.com^
 @@||novelfm.zlink.toutiao.com^
@@ -8550,6 +8578,7 @@
 @@||o2o.api.xiaomi.com^
 @@||oauth-login-drcn.platform.dbankcloud.com^
 @@||oauth.secure.pixiv.net^
+@@||oauth2.googleapis.com^
 @@||obs.af-north-1.myhuaweicloud.com^
 @@||obs.af-south-1.myhuaweicloud.com^
 @@||obs.ap-southeast-1.myhuaweicloud.com^
@@ -8588,6 +8617,15 @@
 @@||one.one.one.one^
 @@||onegoods.nosdn.127.net^
 @@||onekey1.cmpassport.com^
+@@||oneplus.azureedge.net^
+@@||oneplus.blob.core.windows.net^
+@@||oneplus.cdn.cloudflare.net^
+@@||oneplus.force.com^
+@@||oneplus.helpshift.com^
+@@||oneplus.secure.force.com^
+@@||onepluscommunity.net^
+@@||oneplusid.oneplus.com^
+@@||oneplusid.oneplus.net^
 @@||open.account.oppo.com^
 @@||open.bytedanceapi.com^
 @@||open.douyin.com^
@@ -8607,6 +8645,7 @@
 @@||ossp.voicecloud.cn^
 @@||ota.coloros.com^
 @@||ota.oneplus.com^
+@@||ota.oneplus.net^
 @@||ota.oppo.com^
 @@||ota.realme.com^
 @@||ota.tv.xiaomi.com^
@@ -8614,6 +8653,12 @@
 @@||otheve.beacon.qq.com^
 @@||ott.cibntv.net^
 @@||outexp-beta.cdn.qq.com^
+@@||oxygenos.oneplus.com^
+@@||oxygenos.oneplus.net^
+@@||oxygenos.ota.oneplus.com^
+@@||oxygenos.ota.oneplus.net^
+@@||oxygenos.update.oneplus.com^
+@@||oxygenos.update.oneplus.net^
 @@||p**-ppx.byteimg.com^
 @@||p*-ecom-fe.byteimg.com^
 @@||p*-ecop-imagex.byteimg.com^
@@ -8863,6 +8908,8 @@
 @@||push.chsi.com.cn^
 @@||push.heytap.com^
 @@||push.m.youku.com^
+@@||push.oneplus.com^
+@@||push.oneplus.net^
 @@||push.oppo.com^
 @@||push.oray.com^
 @@||push.realme.com^
@@ -9053,6 +9100,7 @@
 @@||self.events.data.microsoft.com^
 @@||sentry.zhuanzhuan.com^
 @@||service.mkey.163.com^
+@@||service.oneplus.com^
 @@||service.vivo.com^
 @@||setup.icloud.com^
 @@||sf.163.com^
@@ -9163,6 +9211,7 @@
 @@||static.ali213.net^
 @@||static.biligame.com^
 @@||static.clewm.net^
+@@||static.cloudflareinsights.com^$important
 @@||static.deepseek.com^
 @@||static.e.189.cn^
 @@||static.gitbook.com^
@@ -9205,6 +9254,8 @@
 @@||store.heytapimage.com^
 @@||store.is.autonavi.com^
 @@||store.meizu.com^
+@@||store.oneplus.com^
+@@||store.oneplus.net^
 @@||store.oppo.com^
 @@||store.oppomobile.com^
 @@||store.realme.com^
@@ -9230,6 +9281,7 @@
 @@||summer-plus.net^
 @@||support.apple.com^
 @@||support.huaweicloud.com^
+@@||support.oneplus.com^
 @@||support.vivo.com^
 @@||support.weixin.qq.com^
 @@||surrit.com^
@@ -9239,6 +9291,8 @@
 @@||swcdn.apple.com^
 @@||swimg1.hstdyf.com^
 @@||sync.heytap.com^
+@@||sync.oneplus.com^
+@@||sync.oneplus.net^
 @@||sync.oppo.com^
 @@||sysdk.cl2009.com^
 @@||szlong.weixin.qq.com^
@@ -9285,6 +9339,8 @@
 @@||thefantazy.com^
 @@||theme.heytap.com^
 @@||theme.heytapimage.com^
+@@||theme.oneplus.com^
+@@||theme.oneplus.net^
 @@||theme.oppo.com^
 @@||theme.realme.com^
 @@||theporndude.com^
@@ -9378,6 +9434,8 @@
 @@||update.360safe.com^
 @@||update.coloros.com^
 @@||update.hicloud.com^
+@@||update.oneplus.com^
+@@||update.oneplus.net^
 @@||update.oppo.com^
 @@||update.realme.com^
 @@||update.tv.xiaomi.com^
@@ -9517,6 +9575,8 @@
 @@||wallet.realme.com^
 @@||wallpaper.cdn.pandora.xiaomi.com^
 @@||wallpaper.heytap.com^
+@@||wallpaper.oneplus.com^
+@@||wallpaper.oneplus.net^
 @@||wallpaper.realme.com^
 @@||wallpaperm.cmcm.com^
 @@||wan.baidu.com^
@@ -9865,6 +9925,7 @@ baidu.com##.drag-wrap
 baidu.com##.ec-ad
 baidu.com##.ec-result-inner
 baidu.com##.ec_ad_results
+baidu.com##.ec_resitem *
 baidu.com##.ec_wise_ad
 baidu.com##.ec_wise_ad *
 baidu.com##.page-head-queryarea
