@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-04-11 10:12:02（北京时间）
+! Version: 2026-04-11 15:00:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16782
+! Total count: 16779
 # AdClose 专用广告规则
-# 生成时间: 2026-04-11 02:12:01（北京时间）
+# 生成时间: 2026-04-11 07:00:55（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -1052,7 +1052,6 @@ domain, a8.creativevillage.ne.jp
 domain, a8.obihiro-butaichi.jp
 domain, a8age.com
 domain, a8clk.shop.shareme.jp
-domain, a8clk.www.jaf.or.jp
 domain, a8cv.bonaventura.shop
 domain, a8cv.udition.jp
 domain, a8lp-tebiki.e-sogi.com
@@ -3590,7 +3589,6 @@ domain, c.dzytjqcc.com
 domain, c.effectivemeasure.net
 domain, c.etoolads.cn
 domain, c.f1zd.com
-domain, c.fa.jd.com
 domain, c.gdt.qq.com
 domain, c.guangtui1999.com
 domain, c.gzsanxiaomingshi.cn
@@ -5376,7 +5374,6 @@ domain, dwfjtz.xyz
 domain, dwibjkdsn.com
 domain, dwuupq.com
 domain, dwyngjb.icu
-domain, dwz.cn
 domain, dx1200.com
 domain, dxlxjvmo.icu
 domain, dxp.baidu.com

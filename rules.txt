@@ -2,7 +2,7 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-04-11 10:12:02（北京时间）
+! Version: 2026-04-11 15:00:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 28345
 
@@ -7238,6 +7238,7 @@
 @@||c.58cdn.com.cn^
 @@||c.duomai.com^
 @@||c.evidon.com^
+@@||c.fa.jd.com^$important
 @@||c.fantia.jp^
 @@||c.gj.qq.com^
 @@||c.pc.qq.com^
@@ -7670,6 +7671,7 @@
 @@||duote.com^
 @@||dw-data-channel.quark.cn^
 @@||dw.uptodown.com^
+@@||dwz.cn^$important
 @@||dx.10086.cn^
 @@||dxx.wwwtop.top^
 @@||dxy.com^
@@ -11851,7 +11853,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||a8.obihiro-butaichi.jp^
 ||a8age.com^
 ||a8clk.shop.shareme.jp^
-||a8clk.www.jaf.or.jp^
 ||a8cv.bonaventura.shop^
 ||a8cv.udition.jp^
 ||a8lp-tebiki.e-sogi.com^
@@ -16391,7 +16392,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dwibjkdsn.com^
 ||dwuupq.com^
 ||dwyngjb.icu^
-||dwz.cn^
 ||dx1200.com^
 ||dxlxjvmo.icu^
 ||dxp.baidu.com^
