@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-04-14 15:45:49（北京时间）
+! Version: 2026-04-14 21:26:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 28406
+! Total count: 28415
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -49,8 +49,10 @@
 .com/xz/*?token8=
 .com:*.js?v=17*$third-party
 .com:*/api/v4/*?*=$third-party
+.com:*/bug?*=$third-party
 .com:*/cc/*?is_not=*&target=*
 .com:*/d/*?c=*$third-party
+.com:*/d/*?t=
 .com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
 .com:7891/stats$third-party
@@ -221,6 +223,8 @@
 /theme/damn_b.js$~third-party
 /tj/tongji.js?v=$third-party
 /tjjs.js
+/tong*ji.js
+/tongji/ad.js
 /v0/amp-addthis-*.js
 /v2/stats/1*/1*$third-party
 /v2/stats/9*$third-party
@@ -15489,6 +15493,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||creative.jdkic.com^
 ||creative.ltheanine.cn^
 ||creative.medproad.com^
+||creative.myavlive.com^
 ||creatives.cliphunter.com^
 ||creatives.ftchinese.com^
 ||creatives.inmotionhosting.com^
@@ -16795,6 +16800,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||edge.sharethis.com^
 ||edge.wshttpdns.com^
 ||edge.yunjiasu.com^
+||edgelib.net^
 ||edigitalsurvey.com^
 ||ediuschina.com^
 ||edncui.net^
@@ -17740,6 +17746,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||go.onclasrv.com^
 ||go.sohu.com^
 ||go.util.zlibs.com^
+||go.xlivrdr.com^
 ||go2click.online^
 ||go2cloud.org^
 ||goblin.hupu.com^
@@ -21375,6 +21382,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||misc.wcd.qq.com^
 ||misc.weshineapp.com^
 ||mishop.pandora.xiaomi.com^
+||missav.*/pop?url=
 ||missav.com/pop?url=
 ||mission-pub.smart-tv.cn^
 ||mistat.xiaomi.com^
@@ -28399,6 +28407,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zzrjdp.xyz^
 ||zzsx8.com^
 ||zztxr.cn^
+||zzuccikqt.com^
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
 ||zzy.mipujia.com^

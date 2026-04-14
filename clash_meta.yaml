@@ -1,9 +1,9 @@
 # Title: Clash Meta规则
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-04-14 07:45:48（北京时间）
-# Clash Meta规则数量: 16776
-! Total count: 16776
+# Last Updated: 2026-04-14 13:26:00（北京时间）
+# Clash Meta规则数量: 16780
+! Total count: 16780
 payload:
   - '-normal-lq.zijieapi.com'
   - '0.r.msn.com'
@@ -4454,6 +4454,7 @@ payload:
   - 'creative.jdkic.com'
   - 'creative.ltheanine.cn'
   - 'creative.medproad.com'
+  - 'creative.myavlive.com'
   - 'creatives.cliphunter.com'
   - 'creatives.ftchinese.com'
   - 'creatives.inmotionhosting.com'
@@ -5705,6 +5706,7 @@ payload:
   - 'edge.sharethis.com'
   - 'edge.wshttpdns.com'
   - 'edge.yunjiasu.com'
+  - 'edgelib.net'
   - 'edigitalsurvey.com'
   - 'ediuschina.com'
   - 'edncui.net'
@@ -6618,6 +6620,7 @@ payload:
   - 'go.onclasrv.com'
   - 'go.sohu.com'
   - 'go.util.zlibs.com'
+  - 'go.xlivrdr.com'
   - 'go2click.online'
   - 'go2cloud.org'
   - 'goblin.hupu.com'
@@ -16771,6 +16774,7 @@ payload:
   - 'zzrjdp.xyz'
   - 'zzsx8.com'
   - 'zztxr.cn'
+  - 'zzuccikqt.com'
   - 'zzxedr.xyz'
   - 'zzxlhwyp.com'
   - 'zzy.mipujia.com'
