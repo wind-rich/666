@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-05-08 21:47:24（北京时间）
+! Version: 2026-05-09 03:17:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27657
+! Total count: 27678
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -10201,6 +10201,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.bllst.cn^
 ||*.bmddsofta.cc^
 ||*.bmdzu8m.cc^
+||*.cc^$important
 ||*.cknr6y.com^
 ||*.cru0xr.com^
 ||*.ctk4xy.com^
@@ -10453,6 +10454,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||1.hao123.com^
 ||1.hnyouneng.com^
 ||1.hslyqs.com^
+||1.huanle739.cc^$important
 ||1.i1766.com^
 ||1.iqeq.com.cn^
 ||1.jeasyui.net^
@@ -10742,6 +10744,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||3.cjcp.cn^
 ||3.guidaye.com^
 ||3.hlg102a.cc^
+||3.se2208hu.cc^$important
 ||3.ssqzj.com^
 ||30350f.com^
 ||30407799.com^
@@ -11044,6 +11047,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||6functf.com^
 ||6gukaitu.xyz^
 ||6hejing.cn^
+||6hqp8y5w.idtad523.top^$important
 ||6huu.com^
 ||6iwoif.com^
 ||6kwan.com^
@@ -11080,6 +11084,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||7566dh1.com^
 ||7566dh9.com^
 ||75to.com^
+||7600mqsv.njoomsj4.top^$important
 ||7631.com^
 ||7663caf8d231fa527wm.cc1tph.com^$important
 ||766ba.net^
@@ -11203,6 +11208,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||8cnd.com^
 ||8d7hhh8x.com^
 ||8dulm.com^
+||8e7c7ik.anhuiyo.com.bplslb.com^$important
+||8e7c7ik.anhuiyo.com^$important
 ||8f1s.mm51-tneb1555.cc^
 ||8g0j.cn^
 ||8gp4wjq3.com^
@@ -13767,6 +13774,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bigcood.xyz^
 ||bigdatacloud.net^
 ||bihaipack.com^
+||bijenpogfidrrg.com^$important
 ||billionfocus.com^
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
@@ -14410,6 +14418,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdnpa.hyperpromote.com^
 ||cdns.mbxt.net^
 ||cdntest.a8tiyu.com^
+||cdppdgwrq.mcapxr.cn^$important
 ||cdrhjt.com^
 ||cds.51y5.net^
 ||cdsxaz02.xyz^$important
@@ -16967,6 +16976,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gator.volces.com^
 ||gb.corp.163.com^
 ||gbcnvip15.com^
+||gbe29fb.cdn.zjedge.xopo11ek.com^$important
 ||gbrtyhnsc.xyz^
 ||gbsp002.com^
 ||gc.keefung-zs.com^
@@ -17497,6 +17507,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hcbmq.cn^
 ||hccms.com.cn^
 ||hcdjy.xyz^
+||hcdnw123.vip.foreign.cdnhwcibv122.com^$important
 ||hchh.capmvb.net^
 ||hciea.xyz^
 ||hcl.baidu.com^
@@ -18994,6 +19005,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||json.gewuwen.com^
 ||jsonatm-wss.broker.tplay.qq.com^
 ||jspg.cc^
+||jsppfqzqv.mcapxr.cn^$important
 ||jsqmt.qq.c^
 ||jsqmt.qq.com^
 ||jssav4hk.xyz^
@@ -19141,6 +19153,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kc-valves.com^
 ||kcnwe.xyz^
 ||kcybtc.ezzgnn.info^
+||kd2bchz.qinall.com.bplslb.com^$important
+||kd2bchz.qinall.com^$important
 ||kdcl.pchome.com.tw^
 ||kdcxhr.cn^
 ||kddtri.cn^
@@ -20390,6 +20404,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||m1.h5.ygmicroloan.com^
 ||m1.mgogo.com^
 ||m1.xcy8.com^
+||m1e3hifb.wbzr100.com.eo.dnse3.com^$important
+||m1e3hifb.wbzr100.com^$important
 ||m2.da.mgtv.com^
 ||m2.qinsx.cn^
 ||m2k3j7x8.com^
@@ -23246,6 +23262,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s1.ssl.qhres.com^
 ||s1.tansuotv.com^
 ||s10.histats.com^
+||s1dxptru.boey2012.com.eo.dnse3.com^$important
+||s1dxptru.boey2012.com^$important
 ||s1m.mediav.com^
 ||s2.dnaxddnc.com^
 ||s2.hiapk.com^
@@ -24588,6 +24606,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tgdopodk.com^
 ||tgfyq.cn^
 ||tggsd07.com^
+||tgoy162.top^$important
 ||tgw-masdk.3g.qq.com^
 ||tgw-sasdk.3g.qq.com^
 ||tgymhwt.cn^
@@ -25129,6 +25148,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ufengjnskl.com^
 ||ufgg55.xyz^
 ||ufile.cc^
+||ufnzvmf-ef5.mt6pu515vhdg.com^$important
 ||ufvauj.cn^
 ||ug-data.mihoyo.com/ads-track/*^
 ||ug-data.mihoyo.com^
@@ -27139,6 +27159,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yqs66.82098999.com^
 ||yquqoj.com^
 ||yqw88.com^
+||yrdgycacwd18.com^$important
 ||yrqwnc.cn^
 ||yrt7dgkf.exashare.com^
 ||yruws6.com^
