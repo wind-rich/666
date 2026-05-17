@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-05-17 03:03:52（北京时间）
+! Version: 2026-05-17 11:26:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27675
+! Total count: 27685
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -7146,6 +7146,7 @@
 @@||baikebcs.bdimg.com^
 @@||baixing.com^
 @@||bbs-static.miyoushe.com^
+@@||bbs.huorong.cn^
 @@||bbs.mobileapi.hupu.com^
 @@||bbs.tampermonkey.net.cn^
 @@||bce.baidu.com^
@@ -7232,6 +7233,7 @@
 @@||cdn-go.cn^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
+@@||cdn-www.huorong.cn^
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.aligames.com^
 @@||cdn.ark.qq.com^
@@ -7544,10 +7546,12 @@
 @@||doris.yidianzixun.com^
 @@||dot.360.cn^
 @@||douyincdn.com^
+@@||down-tencent.huorong.cn^
 @@||down-update.qq.com^
 @@||down.360safe.com^
 @@||down.anticheatexpert.com^
 @@||down.sandai.net^
+@@||download-cdn.clf.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
 @@||download.alicdn.com^
@@ -8226,6 +8230,7 @@
 @@||m.ds.163.com^
 @@||m.dxy.com^
 @@||m.facebook.com^
+@@||m.gushiwen.cn^
 @@||m.image.so.com^
 @@||m.intl.taobao.com^
 @@||m.ip138.com^
@@ -8889,6 +8894,7 @@
 @@||resolver*mi.com^
 @@||resolver.gslb.mi-idc.com^
 @@||resolver.msg.xiaomi.net^
+@@||resources.jetbrains.com.cn^
 @@||restapi.amap.com^
 @@||retail.taobao.com^
 @@||richmedia.video.qq.com^
@@ -9268,6 +9274,7 @@
 @@||u1.img.mobile.sina.cn^
 @@||uc-titans-cn-01.heytapimage.com^
 @@||uc-titans-cn.heytapimage.com^
+@@||uc.huorong.cn^
 @@||uc.ucweb.com^
 @@||ucweb.com^
 @@||uczzd.cn^
@@ -9291,6 +9298,7 @@
 @@||upage.imtt.qq.com^
 @@||update.360safe.com^
 @@||update.hicloud.com^
+@@||update.huorong.cn^
 @@||update.vivo.com^
 @@||updateinfo.market.xiaomi.com^
 @@||upgrade.ptmi.gitv.tv^
@@ -9539,6 +9547,7 @@
 @@||www.hisense.com^
 @@||www.hoyoverse.com^
 @@||www.huaweicloud.com^
+@@||www.huorong.cn^
 @@||www.ibook.info^
 @@||www.icloud.com^
 @@||www.ijinshan.com^
@@ -9548,6 +9557,7 @@
 @@||www.itools.info^
 @@||www.javbangers.com^
 @@||www.jd.com^
+@@||www.jetbrains.com.cn^
 @@||www.jianshu.com^
 @@||www.jiaoyimao.com^
 @@||www.jsdelivr.com^
