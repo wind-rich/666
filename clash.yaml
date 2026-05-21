@@ -1,9 +1,9 @@
 # Title: Clash Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-05-20 20:13:46（北京时间）
-# Clash规则数量: 16537
-! Total count: 16537
+# Last Updated: 2026-05-21 03:39:47（北京时间）
+# Clash规则数量: 16542
+! Total count: 16542
 rules:
   - DOMAIN-SUFFIX,-normal-lq.zijieapi.com,REJECT
   - DOMAIN-SUFFIX,0.r.msn.com,REJECT
@@ -9669,6 +9669,7 @@ rules:
   - DOMAIN-SUFFIX,makeding.com,REJECT
   - DOMAIN-SUFFIX,malacca.inveno.com,REJECT
   - DOMAIN-SUFFIX,maljxp.cn,REJECT
+  - DOMAIN-SUFFIX,malluktig.in,REJECT
   - DOMAIN-SUFFIX,manage.wdfans.cn,REJECT
   - DOMAIN-SUFFIX,manage88.com,REJECT
   - DOMAIN-SUFFIX,manbag.net,REJECT
@@ -9727,6 +9728,7 @@ rules:
   - DOMAIN-SUFFIX,mathtag.com,REJECT
   - DOMAIN-SUFFIX,mathtype.cn,REJECT
   - DOMAIN-SUFFIX,maumkt.ppdaicdn.com,REJECT
+  - DOMAIN-SUFFIX,mavrtracktor.com,REJECT
   - DOMAIN-SUFFIX,maw.wnbfw.com,REJECT
   - DOMAIN-SUFFIX,maximpetus.com,REJECT
   - DOMAIN-SUFFIX,maxwebsearch.com,REJECT
@@ -10682,6 +10684,7 @@ rules:
   - DOMAIN-SUFFIX,ok.8358211.cc,REJECT
   - DOMAIN-SUFFIX,ok365.com,REJECT
   - DOMAIN-SUFFIX,okbd2ou.icu,REJECT
+  - DOMAIN-SUFFIX,okeeblr.com,REJECT
   - DOMAIN-SUFFIX,okforwardt.fun,REJECT
   - DOMAIN-SUFFIX,okjhb.xyz,REJECT
   - DOMAIN-SUFFIX,okkkk.com,REJECT
@@ -11969,6 +11972,7 @@ rules:
   - DOMAIN-SUFFIX,remote88.com,REJECT
   - DOMAIN-SUFFIX,remoteads.oss-cn-beijing.aliyuncs.com,REJECT
   - DOMAIN-SUFFIX,remotedu.cn,REJECT
+  - DOMAIN-SUFFIX,renamereptiliantrance.com,REJECT
   - DOMAIN-SUFFIX,rencai56.com,REJECT
   - DOMAIN-SUFFIX,render-resource.11222.cn,REJECT
   - DOMAIN-SUFFIX,render-server.cdn.bcebos.com,REJECT
@@ -13511,6 +13515,7 @@ rules:
   - DOMAIN-SUFFIX,tchkcc.cn,REJECT
   - DOMAIN-SUFFIX,tci.oss-ap-southeast-1.aliyuncs.com,REJECT
   - DOMAIN-SUFFIX,tcjy66.cc,REJECT
+  - DOMAIN-SUFFIX,tcmxmlu.com,REJECT
   - DOMAIN-SUFFIX,tcsgcdn.top,REJECT
   - DOMAIN-SUFFIX,tcss.qq.com,REJECT
   - DOMAIN-SUFFIX,tcuqqhj.icu,REJECT
