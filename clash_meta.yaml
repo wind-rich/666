@@ -1,9 +1,9 @@
 # Title: Clash Meta规则
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-05-22 14:38:11（北京时间）
-# Clash Meta规则数量: 16542
-! Total count: 16542
+# Last Updated: 2026-05-22 19:44:19（北京时间）
+# Clash Meta规则数量: 16551
+! Total count: 16551
 payload:
   - '-normal-lq.zijieapi.com'
   - '0.r.msn.com'
@@ -2070,6 +2070,7 @@ payload:
   - 'aedns.weixin.qq.com'
   - 'aefdcxoi.com'
   - 'aefmbeq.cn'
+  - 'aekjg-cdn.77t-tusu.com'
   - 'aeletheacd.com'
   - 'aem.dentsuchina.cn'
   - 'aercxy.com'
@@ -4852,6 +4853,7 @@ payload:
   - 'dfsj8050.ahyyxpk.com'
   - 'dfstt5031.ayhnb.cn'
   - 'dfsvhv88.com'
+  - 'dftveb.xn--6krw8b915a62m.com'
   - 'dfx.shhuixiangwuliu.com'
   - 'dfx.vnnv777.cn'
   - 'dfxwdc.com'
@@ -5237,6 +5239,7 @@ payload:
   - 'duclick.baidu.com'
   - 'dugbvb.com'
   - 'dugesheying.com'
+  - 'dui.suiji.red'
   - 'duier.top'
   - 'duiwai.baidu.com'
   - 'dumedia.ru'
@@ -6989,6 +6992,7 @@ payload:
   - 'hmp33.com'
   - 'hmttoly.com'
   - 'hmyangshengji.com'
+  - 'hn.bfvvs.com'
   - 'hnasd.com'
   - 'hnbhrt.xyz'
   - 'hncadh.com'
@@ -8705,6 +8709,7 @@ payload:
   - 'lalabaos1026.top'
   - 'lalaping.com'
   - 'laljjn.xyz'
+  - 'lambda.raidrive.com'
   - 'lamkghx.icu'
   - 'lan.btwan5.com'
   - 'landing.gdtimg.com'
@@ -9428,6 +9433,7 @@ payload:
   - 'm.lfdydk.com'
   - 'm.lovezhishou.com'
   - 'm.lusrg.cn'
+  - 'm.lwlm-nideta.cc'
   - 'm.lyjz001.com'
   - 'm.lzida.com'
   - 'm.lzytt.com'
@@ -10420,6 +10426,7 @@ payload:
   - 'nfh.cnshef.com'
   - 'nfl9j.com'
   - 'nflks.cn'
+  - 'nfnykg.xn--6krw8b915a62m.com'
   - 'nftjjw.com'
   - 'ng8f.top'
   - 'ngads.go.com'
@@ -12015,6 +12022,7 @@ payload:
   - 'resource.baomihua.com'
   - 'responsys.net'
   - 'restorationbowelsunflower.com'
+  - 'reszavxz.malunwudi.com'
   - 'ret.xinlongrubber.com'
   - 'rev.fapdu.com'
   - 'revdepo.com'
@@ -12191,6 +12199,7 @@ payload:
   - 'rvzlobj.cn'
   - 'rwjfs.com'
   - 'rwq.youle55.com'
+  - 'rxing.rxyoo.net'
   - 'rxlidz.ink'
   - 'rxwan.com'
   - 'rxyggrq.cn'

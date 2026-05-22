@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-05-22 22:38:11（北京时间）
+! Version: 2026-05-23 03:44:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27694
+! Total count: 27703
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -12549,6 +12549,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aefdcxoi.com^
 ||aefmbeq.cn^
 ||aegis.qq.com^
+||aekjg-cdn.77t-tusu.com^
 ||aeletheacd.com^
 ||aem.dentsuchina.cn^
 ||aercxy.com^
@@ -15463,6 +15464,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dfsj8050.ahyyxpk.com^
 ||dfstt5031.ayhnb.cn^
 ||dfsvhv88.com^
+||dftveb.xn--6krw8b915a62m.com^
 ||dfx.shhuixiangwuliu.com^
 ||dfx.vnnv777.cn^
 ||dfxwdc.com^
@@ -15870,6 +15872,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||duclick.baidu.com^
 ||dugbvb.com^
 ||dugesheying.com^
+||dui.suiji.red^
 ||duier.top^
 ||duiwai.baidu.com^
 ||dumedia.ru^
@@ -17686,6 +17689,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hmp33.com^
 ||hmttoly.com^
 ||hmyangshengji.com^
+||hn.bfvvs.com^
 ||hnasd.com^
 ||hnbhrt.xyz^
 ||hncadh.com^
@@ -19469,6 +19473,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lalabaos1026.top^
 ||lalaping.com^
 ||laljjn.xyz^
+||lambda.raidrive.com^
 ||lamkghx.icu^
 ||lan.btwan5.com^
 ||landing.gdtimg.com^
@@ -20223,6 +20228,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||m.lfdydk.com^
 ||m.lovezhishou.com^
 ||m.lusrg.cn^
+||m.lwlm-nideta.cc^
 ||m.lyjz001.com^
 ||m.lzida.com^
 ||m.lzytt.com^
@@ -21278,6 +21284,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nfh.cnshef.com^
 ||nfl9j.com^
 ||nflks.cn^
+||nfnykg.xn--6krw8b915a62m.com^
 ||nftjjw.com^
 ||ng8f.top^
 ||ngads.go.com^
@@ -22971,6 +22978,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||resource.baomihua.com^
 ||responsys.net^
 ||restorationbowelsunflower.com^
+||reszavxz.malunwudi.com^
 ||ret.xinlongrubber.com^
 ||rev.fapdu.com^
 ||revdepo.com^
@@ -23150,6 +23158,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rvzlobj.cn^
 ||rwjfs.com^
 ||rwq.youle55.com^
+||rxing.rxyoo.net^
 ||rxlidz.ink^
 ||rxwan.com^
 ||rxyggrq.cn^
