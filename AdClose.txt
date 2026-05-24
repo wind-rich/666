@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-05-24 21:25:41（北京时间）
+! Version: 2026-05-25 03:22:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16556
+! Total count: 16554
 # AdClose 专用广告规则
-# 生成时间: 2026-05-24 13:25:40（北京时间）
+# 生成时间: 2026-05-24 19:22:38（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -5165,7 +5165,6 @@ domain, dr.holaworld.cn
 domain, dragoncent.com
 domain, dragonparking.com
 domain, drawfxk.com
-domain, drcn-weather.cloud.huawei.com
 domain, drd.hauchi.com.tw
 domain, drdj.m.gxwztv.com
 domain, drdwy.com
@@ -14767,7 +14766,6 @@ domain, w.gdown.baidu.com
 domain, w.homes.yahoo.net
 domain, w.inews.qq.com
 domain, w.jscsd.cn
-domain, w.kunlunpi.com
 domain, w.l.qq.com
 domain, w.m.taobao.com
 domain, w.punchbox.org
