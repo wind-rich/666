@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-05-26 17:55:55（北京时间）
+! Version: 2026-05-26 23:26:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27709
+! Total count: 27711
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -9907,6 +9907,8 @@ ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 iplark.com##body > #capture-area ~ div[class]:empty
 iplark.com##div.search-container > [style='display: block;']
 iqiyi.com##.header__ele
+ithome.com##.j_iframe_show > iframe
+ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 ix6080.com##DIV[style$='vw; display: block;']
 izaiwen.cn##.item-box
 izaiwen.cn##DIV[carousel-item]
