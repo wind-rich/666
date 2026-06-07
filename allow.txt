@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-07 16:55:16（北京时间）
+! Version: 2026-06-07 21:51:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3496
+! Total count: 3495
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-cf.xvideos-cdn.com^
@@ -156,7 +156,6 @@
 @@||18comic.org^
 @@||18comic.vip^
 @@||1drv.com^$important
-@@||1music.cc^$important
 @@||1sapp.com^
 @@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
@@ -540,7 +539,6 @@
 @@||b23.tv^
 @@||b3log.org^
 @@||b3logfile.com^
-@@||backend.1music.cc^$important
 @@||backupapi.lkong.com^$important
 @@||bad.news^
 @@||bag.itunes.apple.com^
@@ -1659,7 +1657,7 @@
 @@||knowsex.net^
 @@||konachan.com^
 @@||kubernetes.io^
-@@||kunlunpi.com^$important
+@@||kunlunpi.com^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||l.qq.com^
@@ -1857,6 +1855,7 @@
 @@||m8.music.126.net^
 @@||m801.music.126.net^
 @@||ma*-normal-lf.zijieapi.com^
+@@||ma.zijieapi.com^
 @@||mac.bmcx.com^
 @@||mac.xunlei.com^
 @@||mai.91kami.com^
@@ -2933,7 +2932,7 @@
 @@||token.safebrowsing.apple.com^$important
 @@||tom.163.com^
 @@||tongji.flash.cn^
-@@||tongzhi.cup.com.cn^$important
+@@||tongzhi.cup.com.cn^
 @@||tool.lu^
 @@||tools.google.com^$important
 @@||toonily.com^
@@ -3091,7 +3090,7 @@
 @@||vd1.market.xiaomi.com^
 @@||vd3.bdstatic.com^
 @@||vdn3.vzuu.com^
-@@||vdn5.vzuu.com^$important
+@@||vdn5.vzuu.com^
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
 @@||vectorsdk.map.qq.com^

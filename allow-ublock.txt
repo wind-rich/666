@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-07 16:55:16（北京时间）
+! Version: 2026-06-07 21:51:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2842
+! Total count: 2846
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-06-07 16:55:15（北京时间）
-# 总域名数: 2836
+# 生成时间: 2026-06-07 21:51:40（北京时间）
+# 总域名数: 2840
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -1262,6 +1262,7 @@ knet.cn
 knowsex.net
 konachan.com
 kubernetes.io
+kunlunpi.com
 kwimgs.com
 kyaru-concat.now.sh
 l.qq.com
@@ -1428,6 +1429,7 @@ m7.pzds.com
 m701.music.126.net
 m8.music.126.net
 m801.music.126.net
+ma.zijieapi.com
 mac.bmcx.com
 mac.xunlei.com
 mai.91kami.com
@@ -2342,6 +2344,7 @@ tnc3-aliec2.snssdk.com
 tnc3-bjlgy.zijieapi.com
 tom.163.com
 tongji.flash.cn
+tongzhi.cup.com.cn
 tool.lu
 toonily.com
 toonily.me
@@ -2481,6 +2484,7 @@ vd0.market.xiaomi.com
 vd1.market.xiaomi.com
 vd3.bdstatic.com
 vdn3.vzuu.com
+vdn5.vzuu.com
 vdownload.hembed.com
 vectorsdk.map.qq.com
 venus.yhd.com

@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-07 16:55:16（北京时间）
+! Version: 2026-06-07 21:51:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27713
+! Total count: 27712
 
 *$3p,domain=d3ward.github.io
 *-ad.sm.cn*
@@ -6846,7 +6846,6 @@
 @@||17u.cn^
 @@||18comic.org^
 @@||18comic.vip^
-@@||1music.cc^$important
 @@||1sapp.com^
 @@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
@@ -7143,7 +7142,6 @@
 @@||b23.tv^
 @@||b3log.org^
 @@||b3logfile.com^
-@@||backend.1music.cc^$important
 @@||bad.news^
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
@@ -8110,7 +8108,7 @@
 @@||knet.cn^
 @@||konachan.com^
 @@||kubernetes.io^
-@@||kunlunpi.com^$important
+@@||kunlunpi.com^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||l.qq.com^
@@ -8288,6 +8286,7 @@
 @@||m8.music.126.net^
 @@||m801.music.126.net^
 @@||ma*-normal-lf.zijieapi.com^
+@@||ma.zijieapi.com^
 @@||mac.bmcx.com^
 @@||mac.xunlei.com^
 @@||mai.91kami.com^
@@ -9228,7 +9227,7 @@
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tom.163.com^
 @@||tongji.flash.cn^
-@@||tongzhi.cup.com.cn^$important
+@@||tongzhi.cup.com.cn^
 @@||toonily.com^
 @@||toonily.me^
 @@||top.17173.com^
@@ -9371,7 +9370,7 @@
 @@||vd1.market.xiaomi.com^
 @@||vd3.bdstatic.com^
 @@||vdn3.vzuu.com^
-@@||vdn5.vzuu.com^$important
+@@||vdn5.vzuu.com^
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
 @@||vectorsdk.map.qq.com^
