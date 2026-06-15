@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-15 03:26:18（北京时间）
+! Version: 2026-06-15 12:15:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2846
+! Total count: 2847
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2026-06-15 03:26:18（北京时间）
-# 总域名数: 2840
+# 生成时间: 2026-06-15 12:15:27（北京时间）
+# 总域名数: 2841
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -1608,6 +1608,7 @@ n.sinaimg.cn
 n0va-static.mihoyo.com
 n0va.mihoyo.com
 na1r.services.adobe.com
+na61-na62.wagbridge.advertisement.tanx.com
 na61-na62.wagbridge.alibaba.tanx.com
 nas.xunlei.com
 nav.browser.miui.com
