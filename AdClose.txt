@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-21 03:25:40（北京时间）
+! Version: 2026-06-21 12:11:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16555
+! Total count: 16558
 # AdClose 专用广告规则
-# 生成时间: 2026-06-20 19:25:39（北京时间）
+# 生成时间: 2026-06-21 04:11:27（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -3646,6 +3646,7 @@ domain, cal.meizu.com
 domain, caliyuna.cn
 domain, calopenupdate.comm.miui.com
 domain, camep.xyz
+domain, campfirecroutondecorator.com
 domain, campus-2c-app.cn-hangzhou.log.aliyuncs.com
 domain, cams.pornrabbit.com
 domain, canary-acc.video.qq.com
@@ -3948,6 +3949,7 @@ domain, chjxzk.1555110.cn
 domain, chmae.com
 domain, chn-feedback.adsrvr.cn
 domain, chnhty.com
+domain, chnsrv.com
 domain, chnuuee.xyz
 domain, cholo101.cn
 domain, cholo215.cn
@@ -12212,6 +12214,7 @@ domain, rywnvzd.cn
 domain, rzkptd.com
 domain, rznscya.cn
 domain, rzsgxmm.cn
+domain, rzuagqomzl.in
 domain, s-adashx.ut.uc.cn
 domain, s-gm.mmstat.com
 domain, s.0.0.0.0.cn
