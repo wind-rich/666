@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-24 22:29:01（北京时间）
+! Version: 2026-06-25 03:45:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16558
+! Total count: 16561
 # AdClose 专用广告规则
-# 生成时间: 2026-06-24 14:29:00（北京时间）
+# 生成时间: 2026-06-24 19:45:00（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -8440,6 +8440,7 @@ domain, kermit.macnn.com
 domain, kernelstatic.vivo.com.cn
 domain, keryt.jnservo.com
 domain, ketchapp.org
+domain, kettledroopingcontinuation.com
 domain, keydot.net
 domain, keyrun.cn
 domain, keyrun.com
@@ -10226,6 +10227,7 @@ domain, multi-az-ad.kuaishou.cn
 domain, multi-az-ad.kuaishou.com
 domain, munchkin.marketo.net
 domain, mus-nettech.youku.com
+domain, musclesaskewfeeding.com
 domain, muses-ugc.iqiyi.com
 domain, music.httpdns.c.163.com
 domain, musicoholics.com
@@ -12968,6 +12970,7 @@ domain, spcnv.i-mobile.co.jp
 domain, spdeliver.i-mobile.co.jp
 domain, spdmg-backend.i-mobile.co.jp
 domain, spdmg.i-mobile.co.jp
+domain, spendsdetachment.com
 domain, sphwq.net
 domain, splashimgbssdl.yun.kugou.com
 domain, splashqqlive.gtimg.com

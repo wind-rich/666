@@ -1,9 +1,9 @@
 # Title: Clash Meta规则
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-06-24 14:29:00（北京时间）
-# Clash Meta规则数量: 16554
-! Total count: 16554
+# Last Updated: 2026-06-24 19:45:00（北京时间）
+# Clash Meta规则数量: 16557
+! Total count: 16557
 payload:
   - '-normal-lq.zijieapi.com'
   - '0.r.msn.com'
@@ -8437,6 +8437,7 @@ payload:
   - 'kernelstatic.vivo.com.cn'
   - 'keryt.jnservo.com'
   - 'ketchapp.org'
+  - 'kettledroopingcontinuation.com'
   - 'keydot.net'
   - 'keyrun.cn'
   - 'keyrun.com'
@@ -10223,6 +10224,7 @@ payload:
   - 'multi-az-ad.kuaishou.com'
   - 'munchkin.marketo.net'
   - 'mus-nettech.youku.com'
+  - 'musclesaskewfeeding.com'
   - 'muses-ugc.iqiyi.com'
   - 'music.httpdns.c.163.com'
   - 'musicoholics.com'
@@ -12965,6 +12967,7 @@ payload:
   - 'spdeliver.i-mobile.co.jp'
   - 'spdmg-backend.i-mobile.co.jp'
   - 'spdmg.i-mobile.co.jp'
+  - 'spendsdetachment.com'
   - 'sphwq.net'
   - 'splashimgbssdl.yun.kugou.com'
   - 'splashqqlive.gtimg.com'

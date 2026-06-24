@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-24 22:29:01（北京时间）
+! Version: 2026-06-25 03:45:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16559
+! Total count: 16562
 # Title: Hosts Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-06-24 14:29:00（北京时间）
+# Last Updated: 2026-06-24 19:45:00（北京时间）
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 000123456789.online
@@ -8441,6 +8441,7 @@
 0.0.0.0 kernelstatic.vivo.com.cn
 0.0.0.0 keryt.jnservo.com
 0.0.0.0 ketchapp.org
+0.0.0.0 kettledroopingcontinuation.com
 0.0.0.0 keydot.net
 0.0.0.0 keyrun.cn
 0.0.0.0 keyrun.com
@@ -10227,6 +10228,7 @@
 0.0.0.0 multi-az-ad.kuaishou.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mus-nettech.youku.com
+0.0.0.0 musclesaskewfeeding.com
 0.0.0.0 muses-ugc.iqiyi.com
 0.0.0.0 music.httpdns.c.163.com
 0.0.0.0 musicoholics.com
@@ -12969,6 +12971,7 @@
 0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
+0.0.0.0 spendsdetachment.com
 0.0.0.0 sphwq.net
 0.0.0.0 splashimgbssdl.yun.kugou.com
 0.0.0.0 splashqqlive.gtimg.com
