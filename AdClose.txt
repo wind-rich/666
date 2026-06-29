@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-29 18:58:46（北京时间）
+! Version: 2026-06-29 23:45:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16561
+! Total count: 16587
 # AdClose 专用广告规则
-# 生成时间: 2026-06-29 10:58:46（北京时间）
+# 生成时间: 2026-06-29 15:45:35（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -1163,6 +1163,7 @@ domain, ad-ggtg-api.37.com.cn
 domain, ad-h5-cdn.soulapp.cn
 domain, ad-h5-station-cdn.soulapp.cn
 domain, ad-imp.hismarttv.com
+domain, ad-loan.com
 domain, ad-locus.com
 domain, ad-log-upload-os.hoyoverse.com
 domain, ad-miner.com
@@ -1298,6 +1299,7 @@ domain, ad.jamster.com
 domain, ad.jia.360.cn
 domain, ad.jiemian.com
 domain, ad.jsnbrynb.com
+domain, ad.juziloan.com
 domain, ad.jxnews.com.cn
 domain, ad.k.21cn.com
 domain, ad.k98y.cn
@@ -1310,6 +1312,7 @@ domain, ad.leadboltmobile.net
 domain, ad.letmeads.com
 domain, ad.life.360.cn
 domain, ad.livere.co.kr
+domain, ad.loansdk.com
 domain, ad.lovefree.cc
 domain, ad.lqalm.com
 domain, ad.lyricswire.com
@@ -2485,6 +2488,7 @@ domain, api.itaoxiaoshuo.com
 domain, api.jietuhb.com
 domain, api.joybj.com
 domain, api.juliangcili.com
+domain, api.juzijinke.com
 domain, api.ketedata.com
 domain, api.koudaikj.com
 domain, api.leadbolt.net
@@ -3187,6 +3191,7 @@ domain, bes-mtj.baidu.com
 domain, bes-progfree.com
 domain, besmeargleor.com
 domain, beste1.icu
+domain, bestfenqi.com
 domain, bet36500050.com
 domain, beta.vpon.com
 domain, beta2-ad-open-api.test.gifshow.com
@@ -8297,6 +8302,7 @@ domain, jtug.code.poyang.com
 domain, jtxh.net
 domain, jtys8.com
 domain, ju33.com
+domain, juhuiwangluokeji.com
 domain, juicyads.com
 domain, juicyads.in
 domain, jujcjz.xyz
@@ -8313,7 +8319,10 @@ domain, jutou5.com
 domain, jutwzssh.icu
 domain, juuoe.lrmzx.com
 domain, juzi.cn
+domain, juzifenqi.com
+domain, juzijinke.com
 domain, juzilm.com
+domain, juzishuke.com
 domain, jv0rlf.com
 domain, jvjlkih.com
 domain, jvljnb.xyz
@@ -8990,7 +8999,14 @@ domain, lnzjlr.xyz
 domain, load77.exelator.com
 domain, loading.baofeng5.baofeng.net
 domain, loadm.exelator.com
+domain, loan-ad.cn
+domain, loan-advert.com
+domain, loan-stat.com
+domain, loan-track.com
+domain, loan-track.juzishuke.com
 domain, loandatec.com
+domain, loanlink.cn
+domain, loantrack.cn
 domain, lobmuc.cn
 domain, local.info.g9hc4.cn
 domain, localads.chengzijianzhan.cn.queniurc.com
@@ -9681,6 +9697,7 @@ domain, maisoncherry.com
 domain, makeding.com
 domain, malacca.inveno.com
 domain, maljxp.cn
+domain, mall.juzijinke.com
 domain, malluktig.in
 domain, manage.wdfans.cn
 domain, manage88.com
@@ -11510,7 +11527,10 @@ domain, push.app.autohome.com.cn
 domain, push.com2us.net
 domain, push.feng.com
 domain, push.gifshow.com
+domain, push.jiguang.cn
+domain, push.juzidata.com
 domain, push.ksapisrv.com
+domain, push.loan-stat.com
 domain, push.mobile.kugou.com
 domain, push.pgl.qq.com
 domain, push.pupuapi.com
@@ -12769,6 +12789,7 @@ domain, shrek.6.cn
 domain, shsunedu.com
 domain, shtatuo.cn
 domain, shtt.shuqw.com
+domain, shturl.cc
 domain, shua-music.shinet.cn
 domain, shucaihangjia.com
 domain, shufapeixun.shop
@@ -13131,6 +13152,7 @@ domain, stat.house365.com
 domain, stat.ijinshan.com
 domain, stat.img-space.com
 domain, stat.jc001.cn
+domain, stat.juzitrack.com
 domain, stat.kugou.com
 domain, stat.letv.com
 domain, stat.m.jd.com
@@ -13162,6 +13184,7 @@ domain, static.g.pptv.com
 domain, static.gomefinance.com.cn
 domain, static.gridsumdissector.com
 domain, static.hae123.cn
+domain, static.juzijinke.com
 domain, static.ku6.com
 domain, static.media.net
 domain, static.mediav.com
@@ -13829,7 +13852,9 @@ domain, track.58.com
 domain, track.easeus.com
 domain, track.hujiang.com
 domain, track.innoads.cn
+domain, track.juzijinke.com
 domain, track.lc.quark.cn
+domain, track.loan-ad.cn
 domain, track.tiara.daum.net
 domain, track.tiara.kakao.com
 domain, track.toutiao.com
@@ -13853,6 +13878,7 @@ domain, tracking.intl.miui.com
 domain, tracking.kdnet.net
 domain, tracking.miui.com
 domain, tracking.rus.miui.com
+domain, tracking.umeng.com
 domain, trackingio.com
 domain, tracklog.58.com
 domain, tracktp.sigmob.cn

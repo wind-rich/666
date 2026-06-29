@@ -1,9 +1,9 @@
 # Title: SingBox SRS Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-06-29 10:58:46（北京时间）
-# Singbox规则数量: 16557
-! Total count: 16557
+# Last Updated: 2026-06-29 15:45:35（北京时间）
+# Singbox规则数量: 16583
+! Total count: 16583
 DOMAIN-SUFFIX,-normal-lq.zijieapi.com,REJECT
 DOMAIN-SUFFIX,0.r.msn.com,REJECT
 DOMAIN-SUFFIX,000123456789.online,REJECT
@@ -1159,6 +1159,7 @@ DOMAIN-SUFFIX,ad-ggtg-api.37.com.cn,REJECT
 DOMAIN-SUFFIX,ad-h5-cdn.soulapp.cn,REJECT
 DOMAIN-SUFFIX,ad-h5-station-cdn.soulapp.cn,REJECT
 DOMAIN-SUFFIX,ad-imp.hismarttv.com,REJECT
+DOMAIN-SUFFIX,ad-loan.com,REJECT
 DOMAIN-SUFFIX,ad-locus.com,REJECT
 DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com,REJECT
 DOMAIN-SUFFIX,ad-miner.com,REJECT
@@ -1294,6 +1295,7 @@ DOMAIN-SUFFIX,ad.jamster.com,REJECT
 DOMAIN-SUFFIX,ad.jia.360.cn,REJECT
 DOMAIN-SUFFIX,ad.jiemian.com,REJECT
 DOMAIN-SUFFIX,ad.jsnbrynb.com,REJECT
+DOMAIN-SUFFIX,ad.juziloan.com,REJECT
 DOMAIN-SUFFIX,ad.jxnews.com.cn,REJECT
 DOMAIN-SUFFIX,ad.k.21cn.com,REJECT
 DOMAIN-SUFFIX,ad.k98y.cn,REJECT
@@ -1306,6 +1308,7 @@ DOMAIN-SUFFIX,ad.leadboltmobile.net,REJECT
 DOMAIN-SUFFIX,ad.letmeads.com,REJECT
 DOMAIN-SUFFIX,ad.life.360.cn,REJECT
 DOMAIN-SUFFIX,ad.livere.co.kr,REJECT
+DOMAIN-SUFFIX,ad.loansdk.com,REJECT
 DOMAIN-SUFFIX,ad.lovefree.cc,REJECT
 DOMAIN-SUFFIX,ad.lqalm.com,REJECT
 DOMAIN-SUFFIX,ad.lyricswire.com,REJECT
@@ -2481,6 +2484,7 @@ DOMAIN-SUFFIX,api.itaoxiaoshuo.com,REJECT
 DOMAIN-SUFFIX,api.jietuhb.com,REJECT
 DOMAIN-SUFFIX,api.joybj.com,REJECT
 DOMAIN-SUFFIX,api.juliangcili.com,REJECT
+DOMAIN-SUFFIX,api.juzijinke.com,REJECT
 DOMAIN-SUFFIX,api.ketedata.com,REJECT
 DOMAIN-SUFFIX,api.koudaikj.com,REJECT
 DOMAIN-SUFFIX,api.leadbolt.net,REJECT
@@ -3183,6 +3187,7 @@ DOMAIN-SUFFIX,bes-mtj.baidu.com,REJECT
 DOMAIN-SUFFIX,bes-progfree.com,REJECT
 DOMAIN-SUFFIX,besmeargleor.com,REJECT
 DOMAIN-SUFFIX,beste1.icu,REJECT
+DOMAIN-SUFFIX,bestfenqi.com,REJECT
 DOMAIN-SUFFIX,bet36500050.com,REJECT
 DOMAIN-SUFFIX,beta.vpon.com,REJECT
 DOMAIN-SUFFIX,beta2-ad-open-api.test.gifshow.com,REJECT
@@ -8293,6 +8298,7 @@ DOMAIN-SUFFIX,jtug.code.poyang.com,REJECT
 DOMAIN-SUFFIX,jtxh.net,REJECT
 DOMAIN-SUFFIX,jtys8.com,REJECT
 DOMAIN-SUFFIX,ju33.com,REJECT
+DOMAIN-SUFFIX,juhuiwangluokeji.com,REJECT
 DOMAIN-SUFFIX,juicyads.com,REJECT
 DOMAIN-SUFFIX,juicyads.in,REJECT
 DOMAIN-SUFFIX,jujcjz.xyz,REJECT
@@ -8309,7 +8315,10 @@ DOMAIN-SUFFIX,jutou5.com,REJECT
 DOMAIN-SUFFIX,jutwzssh.icu,REJECT
 DOMAIN-SUFFIX,juuoe.lrmzx.com,REJECT
 DOMAIN-SUFFIX,juzi.cn,REJECT
+DOMAIN-SUFFIX,juzifenqi.com,REJECT
+DOMAIN-SUFFIX,juzijinke.com,REJECT
 DOMAIN-SUFFIX,juzilm.com,REJECT
+DOMAIN-SUFFIX,juzishuke.com,REJECT
 DOMAIN-SUFFIX,jv0rlf.com,REJECT
 DOMAIN-SUFFIX,jvjlkih.com,REJECT
 DOMAIN-SUFFIX,jvljnb.xyz,REJECT
@@ -8986,7 +8995,14 @@ DOMAIN-SUFFIX,lnzjlr.xyz,REJECT
 DOMAIN-SUFFIX,load77.exelator.com,REJECT
 DOMAIN-SUFFIX,loading.baofeng5.baofeng.net,REJECT
 DOMAIN-SUFFIX,loadm.exelator.com,REJECT
+DOMAIN-SUFFIX,loan-ad.cn,REJECT
+DOMAIN-SUFFIX,loan-advert.com,REJECT
+DOMAIN-SUFFIX,loan-stat.com,REJECT
+DOMAIN-SUFFIX,loan-track.com,REJECT
+DOMAIN-SUFFIX,loan-track.juzishuke.com,REJECT
 DOMAIN-SUFFIX,loandatec.com,REJECT
+DOMAIN-SUFFIX,loanlink.cn,REJECT
+DOMAIN-SUFFIX,loantrack.cn,REJECT
 DOMAIN-SUFFIX,lobmuc.cn,REJECT
 DOMAIN-SUFFIX,local.info.g9hc4.cn,REJECT
 DOMAIN-SUFFIX,localads.chengzijianzhan.cn.queniurc.com,REJECT
@@ -9677,6 +9693,7 @@ DOMAIN-SUFFIX,maisoncherry.com,REJECT
 DOMAIN-SUFFIX,makeding.com,REJECT
 DOMAIN-SUFFIX,malacca.inveno.com,REJECT
 DOMAIN-SUFFIX,maljxp.cn,REJECT
+DOMAIN-SUFFIX,mall.juzijinke.com,REJECT
 DOMAIN-SUFFIX,malluktig.in,REJECT
 DOMAIN-SUFFIX,manage.wdfans.cn,REJECT
 DOMAIN-SUFFIX,manage88.com,REJECT
@@ -11506,7 +11523,10 @@ DOMAIN-SUFFIX,push.app.autohome.com.cn,REJECT
 DOMAIN-SUFFIX,push.com2us.net,REJECT
 DOMAIN-SUFFIX,push.feng.com,REJECT
 DOMAIN-SUFFIX,push.gifshow.com,REJECT
+DOMAIN-SUFFIX,push.jiguang.cn,REJECT
+DOMAIN-SUFFIX,push.juzidata.com,REJECT
 DOMAIN-SUFFIX,push.ksapisrv.com,REJECT
+DOMAIN-SUFFIX,push.loan-stat.com,REJECT
 DOMAIN-SUFFIX,push.mobile.kugou.com,REJECT
 DOMAIN-SUFFIX,push.pgl.qq.com,REJECT
 DOMAIN-SUFFIX,push.pupuapi.com,REJECT
@@ -12765,6 +12785,7 @@ DOMAIN-SUFFIX,shrek.6.cn,REJECT
 DOMAIN-SUFFIX,shsunedu.com,REJECT
 DOMAIN-SUFFIX,shtatuo.cn,REJECT
 DOMAIN-SUFFIX,shtt.shuqw.com,REJECT
+DOMAIN-SUFFIX,shturl.cc,REJECT
 DOMAIN-SUFFIX,shua-music.shinet.cn,REJECT
 DOMAIN-SUFFIX,shucaihangjia.com,REJECT
 DOMAIN-SUFFIX,shufapeixun.shop,REJECT
@@ -13127,6 +13148,7 @@ DOMAIN-SUFFIX,stat.house365.com,REJECT
 DOMAIN-SUFFIX,stat.ijinshan.com,REJECT
 DOMAIN-SUFFIX,stat.img-space.com,REJECT
 DOMAIN-SUFFIX,stat.jc001.cn,REJECT
+DOMAIN-SUFFIX,stat.juzitrack.com,REJECT
 DOMAIN-SUFFIX,stat.kugou.com,REJECT
 DOMAIN-SUFFIX,stat.letv.com,REJECT
 DOMAIN-SUFFIX,stat.m.jd.com,REJECT
@@ -13158,6 +13180,7 @@ DOMAIN-SUFFIX,static.g.pptv.com,REJECT
 DOMAIN-SUFFIX,static.gomefinance.com.cn,REJECT
 DOMAIN-SUFFIX,static.gridsumdissector.com,REJECT
 DOMAIN-SUFFIX,static.hae123.cn,REJECT
+DOMAIN-SUFFIX,static.juzijinke.com,REJECT
 DOMAIN-SUFFIX,static.ku6.com,REJECT
 DOMAIN-SUFFIX,static.media.net,REJECT
 DOMAIN-SUFFIX,static.mediav.com,REJECT
@@ -13825,7 +13848,9 @@ DOMAIN-SUFFIX,track.58.com,REJECT
 DOMAIN-SUFFIX,track.easeus.com,REJECT
 DOMAIN-SUFFIX,track.hujiang.com,REJECT
 DOMAIN-SUFFIX,track.innoads.cn,REJECT
+DOMAIN-SUFFIX,track.juzijinke.com,REJECT
 DOMAIN-SUFFIX,track.lc.quark.cn,REJECT
+DOMAIN-SUFFIX,track.loan-ad.cn,REJECT
 DOMAIN-SUFFIX,track.tiara.daum.net,REJECT
 DOMAIN-SUFFIX,track.tiara.kakao.com,REJECT
 DOMAIN-SUFFIX,track.toutiao.com,REJECT
@@ -13849,6 +13874,7 @@ DOMAIN-SUFFIX,tracking.intl.miui.com,REJECT
 DOMAIN-SUFFIX,tracking.kdnet.net,REJECT
 DOMAIN-SUFFIX,tracking.miui.com,REJECT
 DOMAIN-SUFFIX,tracking.rus.miui.com,REJECT
+DOMAIN-SUFFIX,tracking.umeng.com,REJECT
 DOMAIN-SUFFIX,trackingio.com,REJECT
 DOMAIN-SUFFIX,tracklog.58.com,REJECT
 DOMAIN-SUFFIX,tracktp.sigmob.cn,REJECT

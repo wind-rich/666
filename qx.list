@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-06-29 10:58:46（北京时间）
-# Quantumult X规则数量: 16557
-# ! Total count: 16557
+# Last Updated: 2026-06-29 15:45:35（北京时间）
+# Quantumult X规则数量: 16583
+# ! Total count: 16583
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -1159,6 +1159,7 @@ HOST-SUFFIX,ad-ggtg-api.37.com.cn,REJECT
 HOST-SUFFIX,ad-h5-cdn.soulapp.cn,REJECT
 HOST-SUFFIX,ad-h5-station-cdn.soulapp.cn,REJECT
 HOST-SUFFIX,ad-imp.hismarttv.com,REJECT
+HOST-SUFFIX,ad-loan.com,REJECT
 HOST-SUFFIX,ad-locus.com,REJECT
 HOST-SUFFIX,ad-log-upload-os.hoyoverse.com,REJECT
 HOST-SUFFIX,ad-miner.com,REJECT
@@ -1294,6 +1295,7 @@ HOST-SUFFIX,ad.jamster.com,REJECT
 HOST-SUFFIX,ad.jia.360.cn,REJECT
 HOST-SUFFIX,ad.jiemian.com,REJECT
 HOST-SUFFIX,ad.jsnbrynb.com,REJECT
+HOST-SUFFIX,ad.juziloan.com,REJECT
 HOST-SUFFIX,ad.jxnews.com.cn,REJECT
 HOST-SUFFIX,ad.k.21cn.com,REJECT
 HOST-SUFFIX,ad.k98y.cn,REJECT
@@ -1306,6 +1308,7 @@ HOST-SUFFIX,ad.leadboltmobile.net,REJECT
 HOST-SUFFIX,ad.letmeads.com,REJECT
 HOST-SUFFIX,ad.life.360.cn,REJECT
 HOST-SUFFIX,ad.livere.co.kr,REJECT
+HOST-SUFFIX,ad.loansdk.com,REJECT
 HOST-SUFFIX,ad.lovefree.cc,REJECT
 HOST-SUFFIX,ad.lqalm.com,REJECT
 HOST-SUFFIX,ad.lyricswire.com,REJECT
@@ -2481,6 +2484,7 @@ HOST-SUFFIX,api.itaoxiaoshuo.com,REJECT
 HOST-SUFFIX,api.jietuhb.com,REJECT
 HOST-SUFFIX,api.joybj.com,REJECT
 HOST-SUFFIX,api.juliangcili.com,REJECT
+HOST-SUFFIX,api.juzijinke.com,REJECT
 HOST-SUFFIX,api.ketedata.com,REJECT
 HOST-SUFFIX,api.koudaikj.com,REJECT
 HOST-SUFFIX,api.leadbolt.net,REJECT
@@ -3183,6 +3187,7 @@ HOST-SUFFIX,bes-mtj.baidu.com,REJECT
 HOST-SUFFIX,bes-progfree.com,REJECT
 HOST-SUFFIX,besmeargleor.com,REJECT
 HOST-SUFFIX,beste1.icu,REJECT
+HOST-SUFFIX,bestfenqi.com,REJECT
 HOST-SUFFIX,bet36500050.com,REJECT
 HOST-SUFFIX,beta.vpon.com,REJECT
 HOST-SUFFIX,beta2-ad-open-api.test.gifshow.com,REJECT
@@ -8293,6 +8298,7 @@ HOST-SUFFIX,jtug.code.poyang.com,REJECT
 HOST-SUFFIX,jtxh.net,REJECT
 HOST-SUFFIX,jtys8.com,REJECT
 HOST-SUFFIX,ju33.com,REJECT
+HOST-SUFFIX,juhuiwangluokeji.com,REJECT
 HOST-SUFFIX,juicyads.com,REJECT
 HOST-SUFFIX,juicyads.in,REJECT
 HOST-SUFFIX,jujcjz.xyz,REJECT
@@ -8309,7 +8315,10 @@ HOST-SUFFIX,jutou5.com,REJECT
 HOST-SUFFIX,jutwzssh.icu,REJECT
 HOST-SUFFIX,juuoe.lrmzx.com,REJECT
 HOST-SUFFIX,juzi.cn,REJECT
+HOST-SUFFIX,juzifenqi.com,REJECT
+HOST-SUFFIX,juzijinke.com,REJECT
 HOST-SUFFIX,juzilm.com,REJECT
+HOST-SUFFIX,juzishuke.com,REJECT
 HOST-SUFFIX,jv0rlf.com,REJECT
 HOST-SUFFIX,jvjlkih.com,REJECT
 HOST-SUFFIX,jvljnb.xyz,REJECT
@@ -8986,7 +8995,14 @@ HOST-SUFFIX,lnzjlr.xyz,REJECT
 HOST-SUFFIX,load77.exelator.com,REJECT
 HOST-SUFFIX,loading.baofeng5.baofeng.net,REJECT
 HOST-SUFFIX,loadm.exelator.com,REJECT
+HOST-SUFFIX,loan-ad.cn,REJECT
+HOST-SUFFIX,loan-advert.com,REJECT
+HOST-SUFFIX,loan-stat.com,REJECT
+HOST-SUFFIX,loan-track.com,REJECT
+HOST-SUFFIX,loan-track.juzishuke.com,REJECT
 HOST-SUFFIX,loandatec.com,REJECT
+HOST-SUFFIX,loanlink.cn,REJECT
+HOST-SUFFIX,loantrack.cn,REJECT
 HOST-SUFFIX,lobmuc.cn,REJECT
 HOST-SUFFIX,local.info.g9hc4.cn,REJECT
 HOST-SUFFIX,localads.chengzijianzhan.cn.queniurc.com,REJECT
@@ -9677,6 +9693,7 @@ HOST-SUFFIX,maisoncherry.com,REJECT
 HOST-SUFFIX,makeding.com,REJECT
 HOST-SUFFIX,malacca.inveno.com,REJECT
 HOST-SUFFIX,maljxp.cn,REJECT
+HOST-SUFFIX,mall.juzijinke.com,REJECT
 HOST-SUFFIX,malluktig.in,REJECT
 HOST-SUFFIX,manage.wdfans.cn,REJECT
 HOST-SUFFIX,manage88.com,REJECT
@@ -11506,7 +11523,10 @@ HOST-SUFFIX,push.app.autohome.com.cn,REJECT
 HOST-SUFFIX,push.com2us.net,REJECT
 HOST-SUFFIX,push.feng.com,REJECT
 HOST-SUFFIX,push.gifshow.com,REJECT
+HOST-SUFFIX,push.jiguang.cn,REJECT
+HOST-SUFFIX,push.juzidata.com,REJECT
 HOST-SUFFIX,push.ksapisrv.com,REJECT
+HOST-SUFFIX,push.loan-stat.com,REJECT
 HOST-SUFFIX,push.mobile.kugou.com,REJECT
 HOST-SUFFIX,push.pgl.qq.com,REJECT
 HOST-SUFFIX,push.pupuapi.com,REJECT
@@ -12765,6 +12785,7 @@ HOST-SUFFIX,shrek.6.cn,REJECT
 HOST-SUFFIX,shsunedu.com,REJECT
 HOST-SUFFIX,shtatuo.cn,REJECT
 HOST-SUFFIX,shtt.shuqw.com,REJECT
+HOST-SUFFIX,shturl.cc,REJECT
 HOST-SUFFIX,shua-music.shinet.cn,REJECT
 HOST-SUFFIX,shucaihangjia.com,REJECT
 HOST-SUFFIX,shufapeixun.shop,REJECT
@@ -13127,6 +13148,7 @@ HOST-SUFFIX,stat.house365.com,REJECT
 HOST-SUFFIX,stat.ijinshan.com,REJECT
 HOST-SUFFIX,stat.img-space.com,REJECT
 HOST-SUFFIX,stat.jc001.cn,REJECT
+HOST-SUFFIX,stat.juzitrack.com,REJECT
 HOST-SUFFIX,stat.kugou.com,REJECT
 HOST-SUFFIX,stat.letv.com,REJECT
 HOST-SUFFIX,stat.m.jd.com,REJECT
@@ -13158,6 +13180,7 @@ HOST-SUFFIX,static.g.pptv.com,REJECT
 HOST-SUFFIX,static.gomefinance.com.cn,REJECT
 HOST-SUFFIX,static.gridsumdissector.com,REJECT
 HOST-SUFFIX,static.hae123.cn,REJECT
+HOST-SUFFIX,static.juzijinke.com,REJECT
 HOST-SUFFIX,static.ku6.com,REJECT
 HOST-SUFFIX,static.media.net,REJECT
 HOST-SUFFIX,static.mediav.com,REJECT
@@ -13825,7 +13848,9 @@ HOST-SUFFIX,track.58.com,REJECT
 HOST-SUFFIX,track.easeus.com,REJECT
 HOST-SUFFIX,track.hujiang.com,REJECT
 HOST-SUFFIX,track.innoads.cn,REJECT
+HOST-SUFFIX,track.juzijinke.com,REJECT
 HOST-SUFFIX,track.lc.quark.cn,REJECT
+HOST-SUFFIX,track.loan-ad.cn,REJECT
 HOST-SUFFIX,track.tiara.daum.net,REJECT
 HOST-SUFFIX,track.tiara.kakao.com,REJECT
 HOST-SUFFIX,track.toutiao.com,REJECT
@@ -13849,6 +13874,7 @@ HOST-SUFFIX,tracking.intl.miui.com,REJECT
 HOST-SUFFIX,tracking.kdnet.net,REJECT
 HOST-SUFFIX,tracking.miui.com,REJECT
 HOST-SUFFIX,tracking.rus.miui.com,REJECT
+HOST-SUFFIX,tracking.umeng.com,REJECT
 HOST-SUFFIX,trackingio.com,REJECT
 HOST-SUFFIX,tracklog.58.com,REJECT
 HOST-SUFFIX,tracktp.sigmob.cn,REJECT

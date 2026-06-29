@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-29 18:58:46（北京时间）
+! Version: 2026-06-29 23:45:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27743
+! Total count: 27775
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11628,6 +11628,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-h5-cdn.soulapp.cn^
 ||ad-h5-station-cdn.soulapp.cn^
 ||ad-imp.hismarttv.com^
+||ad-loan.com^
 ||ad-locus.com^
 ||ad-log-upload-os.hoyoverse.com^
 ||ad-log-upload.mihoyo.com^
@@ -11766,6 +11767,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.jia.360.cn^
 ||ad.jiemian.com^
 ||ad.jsnbrynb.com^
+||ad.juziloan.com^
 ||ad.jxnews.com.cn^
 ||ad.k.21cn.com^
 ||ad.k98y.cn^
@@ -11778,6 +11780,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.letmeads.com^
 ||ad.life.360.cn^
 ||ad.livere.co.kr^
+||ad.loansdk.com^
 ||ad.lovefree.cc^
 ||ad.lqalm.com^
 ||ad.lyricswire.com^
@@ -13009,6 +13012,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.jietuhb.com^
 ||api.joybj.com^
 ||api.juliangcili.com^
+||api.juzijinke.com^
 ||api.ketedata.com^
 ||api.kingdata.ksyun.com^
 ||api.koudaikj.com^
@@ -13759,6 +13763,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bes-progfree.com^
 ||besmeargleor.com^
 ||beste1.icu^
+||bestfenqi.com^
 ||bet36500050.com^
 ||beta.vpon.com^
 ||beta2-ad-open-api.test.gifshow.com^
@@ -19073,6 +19078,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jtxh.net^
 ||jtys8.com^
 ||ju33.com^
+||juhuiwangluokeji.com^
+||juhuiwangluokeji.com^$dnstype=A
+||juhuiwangluokeji.com^$dnstype=AAAA
 ||juicyads.com^
 ||juicyads.in^
 ||jujcjz.xyz^
@@ -19089,7 +19097,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jutwzssh.icu^
 ||juuoe.lrmzx.com^
 ||juzi.cn^
+||juzifenqi.com^
+||juzijinke.com^
+||juzijinke.com^$dnstype=A
+||juzijinke.com^$dnstype=AAAA
 ||juzilm.com^
+||juzishuke.com^
+||juzishuke.com^$dnstype=A
+||juzishuke.com^$dnstype=AAAA
 ||jv0rlf.com^
 ||jvjlkih.com^
 ||jvljnb.xyz^
@@ -19794,7 +19809,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||load77.exelator.com^
 ||loading.baofeng5.baofeng.net^
 ||loadm.exelator.com^
+||loan-ad.cn^
+||loan-advert.com^
+||loan-stat.com^
+||loan-track.com^
+||loan-track.juzishuke.com^
 ||loandatec.com^
+||loanlink.cn^
+||loantrack.cn^
 ||lobmuc.cn^
 ||local.info.g9hc4.cn^
 ||localads.chengzijianzhan.cn.queniurc.com^
@@ -20509,6 +20531,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||makeding.com^
 ||malacca.inveno.com^
 ||maljxp.cn^
+||mall.juzijinke.com^
 ||malluktig.in^
 ||manage.wdfans.cn^
 ||manage88.com^
@@ -22471,7 +22494,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||push.com2us.net^
 ||push.feng.com^
 ||push.gifshow.com^
+||push.jiguang.cn^
+||push.juzidata.com^
 ||push.ksapisrv.com^
+||push.loan-stat.com^
 ||push.m.youku.com^
 ||push.mobile.kugou.com^
 ||push.pgl.qq.com^
@@ -23784,6 +23810,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||shsunedu.com^
 ||shtatuo.cn^
 ||shtt.shuqw.com^
+||shturl.cc^
 ||shua-music.shinet.cn^
 ||shucaihangjia.com^
 ||shufapeixun.shop^
@@ -24158,6 +24185,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stat.ijinshan.com^
 ||stat.img-space.com^
 ||stat.jc001.cn^
+||stat.juzitrack.com^
 ||stat.kugou.com^
 ||stat.letv.com^
 ||stat.m.jd.com^
@@ -24191,6 +24219,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.gomefinance.com.cn^
 ||static.gridsumdissector.com^
 ||static.hae123.cn^
+||static.juzijinke.com^
 ||static.ku6.com^
 ||static.media.net^
 ||static.mediav.com^
@@ -24893,7 +24922,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||track.easeus.com^
 ||track.hujiang.com^
 ||track.innoads.cn^
+||track.juzijinke.com^
 ||track.lc.quark.cn^
+||track.loan-ad.cn^
 ||track.sohu.com^
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
@@ -24921,6 +24952,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tracking.kdnet.net^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
+||tracking.umeng.com^
 ||trackingio.com^
 ||tracklog.58.com^
 ||tracktp.sigmob.cn^

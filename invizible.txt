@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-06-29 18:58:46（北京时间）
+! Version: 2026-06-29 23:45:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16562
+! Total count: 16588
 # Title: Invizible Pro Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-06-29 10:58:46（北京时间）
+# Last Updated: 2026-06-29 15:45:35（北京时间）
 -normal-lq.zijieapi.com
 0.r.msn.com
 000123456789.online
@@ -1164,6 +1164,7 @@ ad-ggtg-api.37.com.cn
 ad-h5-cdn.soulapp.cn
 ad-h5-station-cdn.soulapp.cn
 ad-imp.hismarttv.com
+ad-loan.com
 ad-locus.com
 ad-log-upload-os.hoyoverse.com
 ad-miner.com
@@ -1299,6 +1300,7 @@ ad.jamster.com
 ad.jia.360.cn
 ad.jiemian.com
 ad.jsnbrynb.com
+ad.juziloan.com
 ad.jxnews.com.cn
 ad.k.21cn.com
 ad.k98y.cn
@@ -1311,6 +1313,7 @@ ad.leadboltmobile.net
 ad.letmeads.com
 ad.life.360.cn
 ad.livere.co.kr
+ad.loansdk.com
 ad.lovefree.cc
 ad.lqalm.com
 ad.lyricswire.com
@@ -2486,6 +2489,7 @@ api.itaoxiaoshuo.com
 api.jietuhb.com
 api.joybj.com
 api.juliangcili.com
+api.juzijinke.com
 api.ketedata.com
 api.koudaikj.com
 api.leadbolt.net
@@ -3188,6 +3192,7 @@ bes-mtj.baidu.com
 bes-progfree.com
 besmeargleor.com
 beste1.icu
+bestfenqi.com
 bet36500050.com
 beta.vpon.com
 beta2-ad-open-api.test.gifshow.com
@@ -8298,6 +8303,7 @@ jtug.code.poyang.com
 jtxh.net
 jtys8.com
 ju33.com
+juhuiwangluokeji.com
 juicyads.com
 juicyads.in
 jujcjz.xyz
@@ -8314,7 +8320,10 @@ jutou5.com
 jutwzssh.icu
 juuoe.lrmzx.com
 juzi.cn
+juzifenqi.com
+juzijinke.com
 juzilm.com
+juzishuke.com
 jv0rlf.com
 jvjlkih.com
 jvljnb.xyz
@@ -8991,7 +9000,14 @@ lnzjlr.xyz
 load77.exelator.com
 loading.baofeng5.baofeng.net
 loadm.exelator.com
+loan-ad.cn
+loan-advert.com
+loan-stat.com
+loan-track.com
+loan-track.juzishuke.com
 loandatec.com
+loanlink.cn
+loantrack.cn
 lobmuc.cn
 local.info.g9hc4.cn
 localads.chengzijianzhan.cn.queniurc.com
@@ -9682,6 +9698,7 @@ maisoncherry.com
 makeding.com
 malacca.inveno.com
 maljxp.cn
+mall.juzijinke.com
 malluktig.in
 manage.wdfans.cn
 manage88.com
@@ -11511,7 +11528,10 @@ push.app.autohome.com.cn
 push.com2us.net
 push.feng.com
 push.gifshow.com
+push.jiguang.cn
+push.juzidata.com
 push.ksapisrv.com
+push.loan-stat.com
 push.mobile.kugou.com
 push.pgl.qq.com
 push.pupuapi.com
@@ -12770,6 +12790,7 @@ shrek.6.cn
 shsunedu.com
 shtatuo.cn
 shtt.shuqw.com
+shturl.cc
 shua-music.shinet.cn
 shucaihangjia.com
 shufapeixun.shop
@@ -13132,6 +13153,7 @@ stat.house365.com
 stat.ijinshan.com
 stat.img-space.com
 stat.jc001.cn
+stat.juzitrack.com
 stat.kugou.com
 stat.letv.com
 stat.m.jd.com
@@ -13163,6 +13185,7 @@ static.g.pptv.com
 static.gomefinance.com.cn
 static.gridsumdissector.com
 static.hae123.cn
+static.juzijinke.com
 static.ku6.com
 static.media.net
 static.mediav.com
@@ -13830,7 +13853,9 @@ track.58.com
 track.easeus.com
 track.hujiang.com
 track.innoads.cn
+track.juzijinke.com
 track.lc.quark.cn
+track.loan-ad.cn
 track.tiara.daum.net
 track.tiara.kakao.com
 track.toutiao.com
@@ -13854,6 +13879,7 @@ tracking.intl.miui.com
 tracking.kdnet.net
 tracking.miui.com
 tracking.rus.miui.com
+tracking.umeng.com
 trackingio.com
 tracklog.58.com
 tracktp.sigmob.cn
