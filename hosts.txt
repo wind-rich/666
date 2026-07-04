@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-04 03:21:23（北京时间）
+! Version: 2026-07-04 10:52:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16894
+! Total count: 16896
 # Title: Hosts Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-03 19:21:22（北京时间）
+# Last Updated: 2026-07-04 02:52:00（北京时间）
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 000123456789.online
@@ -1776,6 +1776,7 @@
 0.0.0.0 ads.lejuliang.cn
 0.0.0.0 ads.lejuliang.com
 0.0.0.0 ads.lingyuexiu.cn
+0.0.0.0 ads.linkedin.cn
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.log.kafka.top
 0.0.0.0 ads.midongtech.com
@@ -5914,6 +5915,7 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 etlanaberez.fun
+0.0.0.0 etoolads.cn
 0.0.0.0 etregh.fun
 0.0.0.0 etrvfx.xyz
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
