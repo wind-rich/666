@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-13 03:05:08（北京时间）
+! Version: 2026-07-13 10:44:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27803
+! Total count: 27811
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6850,6 +6850,7 @@
 @@||18comic.vip^
 @@||1sapp.com^
 @@||1tian.kuaishou.com^
+@@||22.do^
 @@||316.coolapk1s.com^
 @@||360.cn^
 @@||360buyimg.com^
@@ -7559,6 +7560,7 @@
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||docs.scriptcat.org^
+@@||docs.vilinko.com^
 @@||domains-ws.revved.com^
 @@||dorado.xiaojukeji.com^
 @@||dorangesource.alicdn.com^
@@ -7570,6 +7572,7 @@
 @@||down.360safe.com^
 @@||down.anticheatexpert.com^
 @@||down.sandai.net^
+@@||down1.vilinko.com^
 @@||download-cdn.clf.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
@@ -8123,6 +8126,7 @@
 @@||kf-ui.cdn-go.cn^
 @@||kjimg10.360buyimg.com^
 @@||klclick*.com^
+@@||klpbbs.com^
 @@||knet.cn^
 @@||konachan.com^
 @@||kubernetes.io^
@@ -8189,6 +8193,7 @@
 @@||lib.sinaapp.com^
 @@||life.cup.com.cn^
 @@||lifemakeovermysg.archosaur.com^
+@@||lightframe.vilinko.com^
 @@||lightnovel.us^
 @@||limbopro.com^
 @@||limestart.cn^
@@ -8200,6 +8205,7 @@
 @@||link.mcmod.cn^
 @@||link.zhihu.com^
 @@||linux.do^
+@@||littleskin.cn^
 @@||liuyun.io^
 @@||live*.static.yximgs.com^
 @@||live-trace.bilibili.com^
@@ -8798,6 +8804,7 @@
 @@||pm.funshion.com^
 @@||po.funshion.com^
 @@||podman.io^
+@@||pogget.vilinko.com^
 @@||polaris.zijieapi.com^
 @@||policy.jd.com^
 @@||policy.video.iqiyi.com^
@@ -9681,6 +9688,7 @@
 @@||www.twitter.com^
 @@||www.unionpayintl.com^
 @@||www.uzzf.com^
+@@||www.vilinko.com^
 @@||www.vmall.com^
 @@||www.wnacg.com^
 @@||www.xanimeporn.com^
