@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-26 10:43:37（北京时间）
+! Version: 2026-07-26 16:24:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16592
+! Total count: 16602
 # AdClose 专用广告规则
-# 生成时间: 2026-07-26 02:43:36（北京时间）
+# 生成时间: 2026-07-26 08:24:51（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -4073,6 +4073,7 @@ domain, cloud.shtac.cn
 domain, cloud.zyiis.net
 domain, cloudad.asia
 domain, cloudasbook.com
+domain, cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 domain, cloudcdn.yousee.com
 domain, cloudconf.fengkongcloud.com
 domain, cloudflare.st
@@ -5211,6 +5212,7 @@ domain, dshrx.com
 domain, dshtyubnjgvmb.com
 domain, dsjsee.dqgpb.com
 domain, dslenggui.com
+domain, dsp-api-cn.metricslinks.com
 domain, dsp-click.youdao.com
 domain, dsp-impr.youdao.com
 domain, dsp-impr2.youdao.com
@@ -8793,6 +8795,7 @@ domain, legozu.com
 domain, leirsw.com
 domain, lekkrrlel.com
 domain, lele999.com
+domain, lemon.gameley.com
 domain, lendc.xyz
 domain, lenzmx.com
 domain, lessplay.com
@@ -9913,6 +9916,7 @@ domain, mgivkqk.cn
 domain, mgldzcls.com
 domain, mgogo.com
 domain, mgscj.efw884.vip
+domain, mgw.mpaas.cn-hangzhou.aliyuncs.com
 domain, mgwcn.com
 domain, mgwl668.com
 domain, mh616.org
@@ -10128,6 +10132,7 @@ domain, mopnativeadv.037201.com
 domain, mopub.com
 domain, moquanad.com
 domain, moren-1252794300.file.myqcloud.com
+domain, mores.anythinktech.com
 domain, mores.toponad.com
 domain, mosa86.com
 domain, mosangkeji.com
@@ -10149,6 +10154,7 @@ domain, mp4.res.hunantv.com
 domain, mparticle.com
 domain, mpb1.iteye.com
 domain, mpb2.iteye.com
+domain, mpcfg.fancydsp.com
 domain, mpp.vindicosuite.com
 domain, mpro.baidu.com
 domain, mps.nbcuni.com
@@ -10331,6 +10337,7 @@ domain, n5ta9.site
 domain, n669p.top
 domain, na2m-pr.licenses.adobe.com
 domain, naaifood.cn
+domain, nadvideo.baidu.com
 domain, nadvideo2.baidu.com
 domain, naemailom.fun
 domain, nai.cpxkvc.com
@@ -12529,8 +12536,10 @@ domain, sdk-event.beizi.biz
 domain, sdk-infra.inmobi.cn
 domain, sdk-log.partner.sm.cn
 domain, sdk-open-phone.getui.com
+domain, sdk-track.66mobi.com
 domain, sdk.1rtb.net
 domain, sdk.ad.smaato.net
+domain, sdk.adhuanxiao.com
 domain, sdk.adx.adwangmai.com
 domain, sdk.alibaba.com.ailbaba.me
 domain, sdk.api.gamex.mobile.youku.com
@@ -14838,6 +14847,7 @@ domain, wagzqhq.cn
 domain, waizongguan.net
 domain, walle.bayescom.com
 domain, wallet.advcash.com
+domain, wallpaper-1258344696.file.myqcloud.com
 domain, wan.2345.com
 domain, wan.rising.cn
 domain, wan.sogou.com

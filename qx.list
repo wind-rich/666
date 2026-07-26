@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-26 02:43:36（北京时间）
-# Quantumult X规则数量: 16588
-# ! Total count: 16588
+# Last Updated: 2026-07-26 08:24:51（北京时间）
+# Quantumult X规则数量: 16598
+# ! Total count: 16598
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -4069,6 +4069,7 @@ HOST-SUFFIX,cloud.shtac.cn,REJECT
 HOST-SUFFIX,cloud.zyiis.net,REJECT
 HOST-SUFFIX,cloudad.asia,REJECT
 HOST-SUFFIX,cloudasbook.com,REJECT
+HOST-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com,REJECT
 HOST-SUFFIX,cloudcdn.yousee.com,REJECT
 HOST-SUFFIX,cloudconf.fengkongcloud.com,REJECT
 HOST-SUFFIX,cloudflare.st,REJECT
@@ -5207,6 +5208,7 @@ HOST-SUFFIX,dshrx.com,REJECT
 HOST-SUFFIX,dshtyubnjgvmb.com,REJECT
 HOST-SUFFIX,dsjsee.dqgpb.com,REJECT
 HOST-SUFFIX,dslenggui.com,REJECT
+HOST-SUFFIX,dsp-api-cn.metricslinks.com,REJECT
 HOST-SUFFIX,dsp-click.youdao.com,REJECT
 HOST-SUFFIX,dsp-impr.youdao.com,REJECT
 HOST-SUFFIX,dsp-impr2.youdao.com,REJECT
@@ -8789,6 +8791,7 @@ HOST-SUFFIX,legozu.com,REJECT
 HOST-SUFFIX,leirsw.com,REJECT
 HOST-SUFFIX,lekkrrlel.com,REJECT
 HOST-SUFFIX,lele999.com,REJECT
+HOST-SUFFIX,lemon.gameley.com,REJECT
 HOST-SUFFIX,lendc.xyz,REJECT
 HOST-SUFFIX,lenzmx.com,REJECT
 HOST-SUFFIX,lessplay.com,REJECT
@@ -9909,6 +9912,7 @@ HOST-SUFFIX,mgivkqk.cn,REJECT
 HOST-SUFFIX,mgldzcls.com,REJECT
 HOST-SUFFIX,mgogo.com,REJECT
 HOST-SUFFIX,mgscj.efw884.vip,REJECT
+HOST-SUFFIX,mgw.mpaas.cn-hangzhou.aliyuncs.com,REJECT
 HOST-SUFFIX,mgwcn.com,REJECT
 HOST-SUFFIX,mgwl668.com,REJECT
 HOST-SUFFIX,mh616.org,REJECT
@@ -10124,6 +10128,7 @@ HOST-SUFFIX,mopnativeadv.037201.com,REJECT
 HOST-SUFFIX,mopub.com,REJECT
 HOST-SUFFIX,moquanad.com,REJECT
 HOST-SUFFIX,moren-1252794300.file.myqcloud.com,REJECT
+HOST-SUFFIX,mores.anythinktech.com,REJECT
 HOST-SUFFIX,mores.toponad.com,REJECT
 HOST-SUFFIX,mosa86.com,REJECT
 HOST-SUFFIX,mosangkeji.com,REJECT
@@ -10145,6 +10150,7 @@ HOST-SUFFIX,mp4.res.hunantv.com,REJECT
 HOST-SUFFIX,mparticle.com,REJECT
 HOST-SUFFIX,mpb1.iteye.com,REJECT
 HOST-SUFFIX,mpb2.iteye.com,REJECT
+HOST-SUFFIX,mpcfg.fancydsp.com,REJECT
 HOST-SUFFIX,mpp.vindicosuite.com,REJECT
 HOST-SUFFIX,mpro.baidu.com,REJECT
 HOST-SUFFIX,mps.nbcuni.com,REJECT
@@ -10327,6 +10333,7 @@ HOST-SUFFIX,n5ta9.site,REJECT
 HOST-SUFFIX,n669p.top,REJECT
 HOST-SUFFIX,na2m-pr.licenses.adobe.com,REJECT
 HOST-SUFFIX,naaifood.cn,REJECT
+HOST-SUFFIX,nadvideo.baidu.com,REJECT
 HOST-SUFFIX,nadvideo2.baidu.com,REJECT
 HOST-SUFFIX,naemailom.fun,REJECT
 HOST-SUFFIX,nai.cpxkvc.com,REJECT
@@ -12525,8 +12532,10 @@ HOST-SUFFIX,sdk-event.beizi.biz,REJECT
 HOST-SUFFIX,sdk-infra.inmobi.cn,REJECT
 HOST-SUFFIX,sdk-log.partner.sm.cn,REJECT
 HOST-SUFFIX,sdk-open-phone.getui.com,REJECT
+HOST-SUFFIX,sdk-track.66mobi.com,REJECT
 HOST-SUFFIX,sdk.1rtb.net,REJECT
 HOST-SUFFIX,sdk.ad.smaato.net,REJECT
+HOST-SUFFIX,sdk.adhuanxiao.com,REJECT
 HOST-SUFFIX,sdk.adx.adwangmai.com,REJECT
 HOST-SUFFIX,sdk.alibaba.com.ailbaba.me,REJECT
 HOST-SUFFIX,sdk.api.gamex.mobile.youku.com,REJECT
@@ -14834,6 +14843,7 @@ HOST-SUFFIX,wagzqhq.cn,REJECT
 HOST-SUFFIX,waizongguan.net,REJECT
 HOST-SUFFIX,walle.bayescom.com,REJECT
 HOST-SUFFIX,wallet.advcash.com,REJECT
+HOST-SUFFIX,wallpaper-1258344696.file.myqcloud.com,REJECT
 HOST-SUFFIX,wan.2345.com,REJECT
 HOST-SUFFIX,wan.rising.cn,REJECT
 HOST-SUFFIX,wan.sogou.com,REJECT

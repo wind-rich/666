@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-26 10:43:37（北京时间）
+! Version: 2026-07-26 16:24:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27834
+! Total count: 27847
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -14731,6 +14731,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cloud.zyiis.net^
 ||cloudad.asia^
 ||cloudasbook.com^
+||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
 ||cloudcdn.yousee.com^
 ||cloudconf.fengkongcloud.com^
 ||cloudflare.st^
@@ -15921,6 +15922,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dshtyubnjgvmb.com^
 ||dsjsee.dqgpb.com^
 ||dslenggui.com^
+||dsp-api-cn.metricslinks.com^
 ||dsp-click.youdao.com^
 ||dsp-impr.youdao.com^
 ||dsp-impr2.youdao.com^
@@ -16976,6 +16978,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||g.51network.com^
 ||g.6sfg.com^
 ||g.ad8.cc^
+||g.alicdn.com^
 ||g.aligames.com^
 ||g.baidu.com^
 ||g.bitauto.com^
@@ -19643,6 +19646,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||leirsw.com^
 ||lekkrrlel.com^
 ||lele999.com^
+||lemon.gameley.com^
 ||lendc.xyz^
 ||lengmen.cc/assets/public/
 ||lens.zhihu.com^
@@ -19666,6 +19670,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-reward-video.bytedcdn.com^
 ||lf-wkrs.wkbrowser.com^
+||lf1-cdn-tos.bytegoofy.com^
 ||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf3-analytics.bytescm.com^
@@ -20815,6 +20820,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mgldzcls.com^
 ||mgogo.com^
 ||mgscj.efw884.vip^
+||mgw.mpaas.cn-hangzhou.aliyuncs.com^
 ||mgwcn.com^
 ||mgwl668.com^
 ||mh616.org^
@@ -21054,6 +21060,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mopub.com^
 ||moquanad.com^
 ||moren-1252794300.file.myqcloud.com^
+||mores.anythinktech.com^
 ||mores.toponad.com^
 ||mos.m.taobao.com^
 ||mosa86.com^
@@ -21078,6 +21085,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mparticle.com^
 ||mpb1.iteye.com^
 ||mpb2.iteye.com^
+||mpcfg.fancydsp.com^
 ||mpp.vindicosuite.com^
 ||mpro.baidu.com^
 ||mps.nbcuni.com^
@@ -21272,6 +21280,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||na2m-pr.licenses.adobe.com^
 ||na61-na62.wagbridge.advertisement.tanx.com^
 ||naaifood.cn^
+||nadvideo.baidu.com^
 ||nadvideo2.baidu.com^
 ||naemailom.fun^
 ||nai.cpxkvc.com^
@@ -23585,8 +23594,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk-infra.inmobi.cn^
 ||sdk-log.partner.sm.cn^
 ||sdk-open-phone.getui.com^
+||sdk-track.66mobi.com^
 ||sdk.1rtb.net^
 ||sdk.ad.smaato.net^
+||sdk.adhuanxiao.com^
 ||sdk.adx.adwangmai.com^
 ||sdk.alibaba.com.ailbaba.me^
 ||sdk.api.gamex.mobile.youku.com^
@@ -23768,6 +23779,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sf6-be-pack.pglstatp-toutiao.com
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||sf6-fe-pack.pglstatp-toutiao.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
 ||sf6-ttcdn-tos.pstatp.com^
 ||sfbixfd.cn^
 ||sfg11rr.com^
@@ -26008,6 +26020,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||walle.bayescom.com^
 ||wallet.advcash.com^
 ||wallpaper-*.file.myqcloud.com^
+||wallpaper-1258344696.file.myqcloud.com^
 ||wan.2345.com^
 ||wan.rising.cn^
 ||wan.sogou.com^

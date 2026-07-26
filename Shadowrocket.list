@@ -1,9 +1,9 @@
 # Title: Shadowrocket Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-26 02:43:36（北京时间）
-# Shadowrocket规则数量: 16588
-! Total count: 16588
+# Last Updated: 2026-07-26 08:24:51（北京时间）
+# Shadowrocket规则数量: 16598
+! Total count: 16598
 DOMAIN-SUFFIX,-normal-lq.zijieapi.com,REJECT
 DOMAIN-SUFFIX,0.r.msn.com,REJECT
 DOMAIN-SUFFIX,000123456789.online,REJECT
@@ -4069,6 +4069,7 @@ DOMAIN-SUFFIX,cloud.shtac.cn,REJECT
 DOMAIN-SUFFIX,cloud.zyiis.net,REJECT
 DOMAIN-SUFFIX,cloudad.asia,REJECT
 DOMAIN-SUFFIX,cloudasbook.com,REJECT
+DOMAIN-SUFFIX,cloudauth-device-dualstack.cn-shanghai.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,cloudcdn.yousee.com,REJECT
 DOMAIN-SUFFIX,cloudconf.fengkongcloud.com,REJECT
 DOMAIN-SUFFIX,cloudflare.st,REJECT
@@ -5207,6 +5208,7 @@ DOMAIN-SUFFIX,dshrx.com,REJECT
 DOMAIN-SUFFIX,dshtyubnjgvmb.com,REJECT
 DOMAIN-SUFFIX,dsjsee.dqgpb.com,REJECT
 DOMAIN-SUFFIX,dslenggui.com,REJECT
+DOMAIN-SUFFIX,dsp-api-cn.metricslinks.com,REJECT
 DOMAIN-SUFFIX,dsp-click.youdao.com,REJECT
 DOMAIN-SUFFIX,dsp-impr.youdao.com,REJECT
 DOMAIN-SUFFIX,dsp-impr2.youdao.com,REJECT
@@ -8789,6 +8791,7 @@ DOMAIN-SUFFIX,legozu.com,REJECT
 DOMAIN-SUFFIX,leirsw.com,REJECT
 DOMAIN-SUFFIX,lekkrrlel.com,REJECT
 DOMAIN-SUFFIX,lele999.com,REJECT
+DOMAIN-SUFFIX,lemon.gameley.com,REJECT
 DOMAIN-SUFFIX,lendc.xyz,REJECT
 DOMAIN-SUFFIX,lenzmx.com,REJECT
 DOMAIN-SUFFIX,lessplay.com,REJECT
@@ -9909,6 +9912,7 @@ DOMAIN-SUFFIX,mgivkqk.cn,REJECT
 DOMAIN-SUFFIX,mgldzcls.com,REJECT
 DOMAIN-SUFFIX,mgogo.com,REJECT
 DOMAIN-SUFFIX,mgscj.efw884.vip,REJECT
+DOMAIN-SUFFIX,mgw.mpaas.cn-hangzhou.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,mgwcn.com,REJECT
 DOMAIN-SUFFIX,mgwl668.com,REJECT
 DOMAIN-SUFFIX,mh616.org,REJECT
@@ -10124,6 +10128,7 @@ DOMAIN-SUFFIX,mopnativeadv.037201.com,REJECT
 DOMAIN-SUFFIX,mopub.com,REJECT
 DOMAIN-SUFFIX,moquanad.com,REJECT
 DOMAIN-SUFFIX,moren-1252794300.file.myqcloud.com,REJECT
+DOMAIN-SUFFIX,mores.anythinktech.com,REJECT
 DOMAIN-SUFFIX,mores.toponad.com,REJECT
 DOMAIN-SUFFIX,mosa86.com,REJECT
 DOMAIN-SUFFIX,mosangkeji.com,REJECT
@@ -10145,6 +10150,7 @@ DOMAIN-SUFFIX,mp4.res.hunantv.com,REJECT
 DOMAIN-SUFFIX,mparticle.com,REJECT
 DOMAIN-SUFFIX,mpb1.iteye.com,REJECT
 DOMAIN-SUFFIX,mpb2.iteye.com,REJECT
+DOMAIN-SUFFIX,mpcfg.fancydsp.com,REJECT
 DOMAIN-SUFFIX,mpp.vindicosuite.com,REJECT
 DOMAIN-SUFFIX,mpro.baidu.com,REJECT
 DOMAIN-SUFFIX,mps.nbcuni.com,REJECT
@@ -10327,6 +10333,7 @@ DOMAIN-SUFFIX,n5ta9.site,REJECT
 DOMAIN-SUFFIX,n669p.top,REJECT
 DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com,REJECT
 DOMAIN-SUFFIX,naaifood.cn,REJECT
+DOMAIN-SUFFIX,nadvideo.baidu.com,REJECT
 DOMAIN-SUFFIX,nadvideo2.baidu.com,REJECT
 DOMAIN-SUFFIX,naemailom.fun,REJECT
 DOMAIN-SUFFIX,nai.cpxkvc.com,REJECT
@@ -12525,8 +12532,10 @@ DOMAIN-SUFFIX,sdk-event.beizi.biz,REJECT
 DOMAIN-SUFFIX,sdk-infra.inmobi.cn,REJECT
 DOMAIN-SUFFIX,sdk-log.partner.sm.cn,REJECT
 DOMAIN-SUFFIX,sdk-open-phone.getui.com,REJECT
+DOMAIN-SUFFIX,sdk-track.66mobi.com,REJECT
 DOMAIN-SUFFIX,sdk.1rtb.net,REJECT
 DOMAIN-SUFFIX,sdk.ad.smaato.net,REJECT
+DOMAIN-SUFFIX,sdk.adhuanxiao.com,REJECT
 DOMAIN-SUFFIX,sdk.adx.adwangmai.com,REJECT
 DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me,REJECT
 DOMAIN-SUFFIX,sdk.api.gamex.mobile.youku.com,REJECT
@@ -14834,6 +14843,7 @@ DOMAIN-SUFFIX,wagzqhq.cn,REJECT
 DOMAIN-SUFFIX,waizongguan.net,REJECT
 DOMAIN-SUFFIX,walle.bayescom.com,REJECT
 DOMAIN-SUFFIX,wallet.advcash.com,REJECT
+DOMAIN-SUFFIX,wallpaper-1258344696.file.myqcloud.com,REJECT
 DOMAIN-SUFFIX,wan.2345.com,REJECT
 DOMAIN-SUFFIX,wan.rising.cn,REJECT
 DOMAIN-SUFFIX,wan.sogou.com,REJECT
