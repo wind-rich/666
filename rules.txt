@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-28 16:32:43（北京时间）
+! Version: 2026-07-28 22:04:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27848
+! Total count: 27853
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -13897,6 +13897,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||biz37.net^
 ||biz5.kankan.com^
 ||bizanti.youwatch.org^
+||bizhi.360.cn^
+||bizhi360.com^
 ||bizhixiang.cn^
 ||bj-td-menta-01-callback.advlion.com^
 ||bj.ad.track.66mobi.com^
@@ -17925,6 +17927,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||httpsdns.baidu.com^
 ||httpsjs.com^
 ||htvixv.xyz^
+||huabao.360.cn^
 ||huahuaka.com^
 ||huakai2025.com/color.js
 ||huashan-datahub-drcn.emui.dbankcloud.com^
@@ -21769,6 +21772,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||openapi-news.meizu.com^
 ||openapi.guanjia.qq.com^
 ||openapi.vivo.com.cn^
+||openbox.mobilem.360.cn^
 ||opencdnpddpic2.cdn.vsjwtcdn.com^
 ||opencdnpddvod2.jomodns.com^
 ||opencollective.com^
@@ -26022,6 +26026,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wallet.advcash.com^
 ||wallpaper-*.file.myqcloud.com^
 ||wallpaper-1258344696.file.myqcloud.com^
+||wallpaper.apc.360.cn^
 ||wan.2345.com^
 ||wan.rising.cn^
 ||wan.sogou.com^

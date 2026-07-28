@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-28 16:32:43（北京时间）
+! Version: 2026-07-28 22:04:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16603
+! Total count: 16608
 # AdClose 专用广告规则
-# 生成时间: 2026-07-28 08:32:42（北京时间）
+# 生成时间: 2026-07-28 14:04:54（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -3269,6 +3269,8 @@ domain, biz.weibo.com.cn
 domain, biz37.net
 domain, biz5.kankan.com
 domain, bizanti.youwatch.org
+domain, bizhi.360.cn
+domain, bizhi360.com
 domain, bizhixiang.cn
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
@@ -7141,6 +7143,7 @@ domain, https-apple.com
 domain, httpsdns.baidu.com
 domain, httpsjs.com
 domain, htvixv.xyz
+domain, huabao.360.cn
 domain, huahuaka.com
 domain, huashan-datahub-drcn.emui.dbankcloud.com
 domain, huashengtai.net
@@ -10809,6 +10812,7 @@ domain, openadapi.fancydsp.com
 domain, openapi-news.meizu.com
 domain, openapi.guanjia.qq.com
 domain, openapi.vivo.com.cn
+domain, openbox.mobilem.360.cn
 domain, opencdnpddpic2.cdn.vsjwtcdn.com
 domain, opencdnpddvod2.jomodns.com
 domain, opencollective.com
@@ -14849,6 +14853,7 @@ domain, waizongguan.net
 domain, walle.bayescom.com
 domain, wallet.advcash.com
 domain, wallpaper-1258344696.file.myqcloud.com
+domain, wallpaper.apc.360.cn
 domain, wan.2345.com
 domain, wan.rising.cn
 domain, wan.sogou.com

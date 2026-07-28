@@ -2,15 +2,15 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-28 16:32:43（北京时间）
+! Version: 2026-07-28 22:04:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16606
+! Total count: 16611
 [Adblock Plus 2.0]
 ! Title: 酷安广告规则
 ! Homepage: https://github.com/qq5460168/AD886
 ! by: 酷安@那个谁520
-! Last Updated: 2026-07-28 08:32:42（北京时间）
-! Total Count: 16599
+! Last Updated: 2026-07-28 14:04:54（北京时间）
+! Total Count: 16604
 ||-normal-lq.zijieapi.com^
 ||0.r.msn.com^
 ||000123456789.online^
@@ -3272,6 +3272,8 @@
 ||biz37.net^
 ||biz5.kankan.com^
 ||bizanti.youwatch.org^
+||bizhi.360.cn^
+||bizhi360.com^
 ||bizhixiang.cn^
 ||bj-td-menta-01-callback.advlion.com^
 ||bj.ad.track.66mobi.com^
@@ -7144,6 +7146,7 @@
 ||httpsdns.baidu.com^
 ||httpsjs.com^
 ||htvixv.xyz^
+||huabao.360.cn^
 ||huahuaka.com^
 ||huashan-datahub-drcn.emui.dbankcloud.com^
 ||huashengtai.net^
@@ -10812,6 +10815,7 @@
 ||openapi-news.meizu.com^
 ||openapi.guanjia.qq.com^
 ||openapi.vivo.com.cn^
+||openbox.mobilem.360.cn^
 ||opencdnpddpic2.cdn.vsjwtcdn.com^
 ||opencdnpddvod2.jomodns.com^
 ||opencollective.com^
@@ -14852,6 +14856,7 @@
 ||walle.bayescom.com^
 ||wallet.advcash.com^
 ||wallpaper-1258344696.file.myqcloud.com^
+||wallpaper.apc.360.cn^
 ||wan.2345.com^
 ||wan.rising.cn^
 ||wan.sogou.com^

@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-28 08:32:42（北京时间）
-# Quantumult X规则数量: 16599
-# ! Total count: 16599
+# Last Updated: 2026-07-28 14:04:54（北京时间）
+# Quantumult X规则数量: 16604
+# ! Total count: 16604
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -3265,6 +3265,8 @@ HOST-SUFFIX,biz.weibo.com.cn,REJECT
 HOST-SUFFIX,biz37.net,REJECT
 HOST-SUFFIX,biz5.kankan.com,REJECT
 HOST-SUFFIX,bizanti.youwatch.org,REJECT
+HOST-SUFFIX,bizhi.360.cn,REJECT
+HOST-SUFFIX,bizhi360.com,REJECT
 HOST-SUFFIX,bizhixiang.cn,REJECT
 HOST-SUFFIX,bj-td-menta-01-callback.advlion.com,REJECT
 HOST-SUFFIX,bj.ad.track.66mobi.com,REJECT
@@ -7137,6 +7139,7 @@ HOST-SUFFIX,https-apple.com,REJECT
 HOST-SUFFIX,httpsdns.baidu.com,REJECT
 HOST-SUFFIX,httpsjs.com,REJECT
 HOST-SUFFIX,htvixv.xyz,REJECT
+HOST-SUFFIX,huabao.360.cn,REJECT
 HOST-SUFFIX,huahuaka.com,REJECT
 HOST-SUFFIX,huashan-datahub-drcn.emui.dbankcloud.com,REJECT
 HOST-SUFFIX,huashengtai.net,REJECT
@@ -10805,6 +10808,7 @@ HOST-SUFFIX,openadapi.fancydsp.com,REJECT
 HOST-SUFFIX,openapi-news.meizu.com,REJECT
 HOST-SUFFIX,openapi.guanjia.qq.com,REJECT
 HOST-SUFFIX,openapi.vivo.com.cn,REJECT
+HOST-SUFFIX,openbox.mobilem.360.cn,REJECT
 HOST-SUFFIX,opencdnpddpic2.cdn.vsjwtcdn.com,REJECT
 HOST-SUFFIX,opencdnpddvod2.jomodns.com,REJECT
 HOST-SUFFIX,opencollective.com,REJECT
@@ -14845,6 +14849,7 @@ HOST-SUFFIX,waizongguan.net,REJECT
 HOST-SUFFIX,walle.bayescom.com,REJECT
 HOST-SUFFIX,wallet.advcash.com,REJECT
 HOST-SUFFIX,wallpaper-1258344696.file.myqcloud.com,REJECT
+HOST-SUFFIX,wallpaper.apc.360.cn,REJECT
 HOST-SUFFIX,wan.2345.com,REJECT
 HOST-SUFFIX,wan.rising.cn,REJECT
 HOST-SUFFIX,wan.sogou.com,REJECT
