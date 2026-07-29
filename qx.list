@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-28 19:22:12（北京时间）
-# Quantumult X规则数量: 16689
-# ! Total count: 16689
+# Last Updated: 2026-07-29 02:34:01（北京时间）
+# Quantumult X规则数量: 16698
+# ! Total count: 16698
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -2038,6 +2038,7 @@ HOST-SUFFIX,adx-api.hupu.com,REJECT
 HOST-SUFFIX,adx-api.jinmo.tech,REJECT
 HOST-SUFFIX,adx-bj-req.anythinktech.com,REJECT
 HOST-SUFFIX,adx-bj.anythinktech.com,REJECT
+HOST-SUFFIX,adx-bj.statisticslinks.com,REJECT
 HOST-SUFFIX,adx-cfg-u1.ubixioe.com,REJECT
 HOST-SUFFIX,adx-cn.ads.vungle.com,REJECT
 HOST-SUFFIX,adx-cn.anythinktech.com,REJECT
@@ -2448,6 +2449,7 @@ HOST-SUFFIX,api.06fgej.com,REJECT
 HOST-SUFFIX,api.1101yh.com,REJECT
 HOST-SUFFIX,api.36dfsa.com,REJECT
 HOST-SUFFIX,api.ad.xiaomi.com,REJECT
+HOST-SUFFIX,api.ad.xiaomi.coms,REJECT
 HOST-SUFFIX,api.admange.com,REJECT
 HOST-SUFFIX,api.ads66.com,REJECT
 HOST-SUFFIX,api.adserver.jvmai.com,REJECT
@@ -2579,6 +2581,7 @@ HOST-SUFFIX,api.yangqianguan.com,REJECT
 HOST-SUFFIX,api.yfanads.com,REJECT
 HOST-SUFFIX,api.youtu.qq.com,REJECT
 HOST-SUFFIX,api.youxiaoad.com,REJECT
+HOST-SUFFIX,api.yunxish.com,REJECT
 HOST-SUFFIX,api.zol.com,REJECT
 HOST-SUFFIX,api01pbmp.zhuishushenqi.com,REJECT
 HOST-SUFFIX,api02u58f.zhuishushenqi.com,REJECT
@@ -3874,6 +3877,7 @@ HOST-SUFFIX,cdn.xiangkanwang.com,REJECT
 HOST-SUFFIX,cdn.xianliao.me,REJECT
 HOST-SUFFIX,cdn.xinstall.com,REJECT
 HOST-SUFFIX,cdn.yunliunet.com,REJECT
+HOST-SUFFIX,cdn.yunxish.com,REJECT
 HOST-SUFFIX,cdn.zampda.net,REJECT
 HOST-SUFFIX,cdn.zampdsp.com,REJECT
 HOST-SUFFIX,cdn0.mobmore.com,REJECT
@@ -4352,6 +4356,7 @@ HOST-SUFFIX,cp.jfcdns.com,REJECT
 HOST-SUFFIX,cp.jz5u.net,REJECT
 HOST-SUFFIX,cpatrk.net,REJECT
 HOST-SUFFIX,cpc-service-square.aiclk.com,REJECT
+HOST-SUFFIX,cpc-service-square.yunxish.com,REJECT
 HOST-SUFFIX,cpc.sogou.com,REJECT
 HOST-SUFFIX,cpc.sohu.com,REJECT
 HOST-SUFFIX,cpcv.cc,REJECT
@@ -12015,6 +12020,7 @@ HOST-SUFFIX,rcv.jesgoo.com,REJECT
 HOST-SUFFIX,rcv.mobad.ijinshan.com,REJECT
 HOST-SUFFIX,rcv.moogos.com,REJECT
 HOST-SUFFIX,rcv.union-wifi.com,REJECT
+HOST-SUFFIX,rcv.yunxish.com,REJECT
 HOST-SUFFIX,rcyy3.kaopuwangjz.com,REJECT
 HOST-SUFFIX,rd.ane.yahoo.co.jp,REJECT
 HOST-SUFFIX,rd.autohome.com.cn,REJECT
@@ -12593,6 +12599,7 @@ HOST-SUFFIX,sdhuawen.cn,REJECT
 HOST-SUFFIX,sdhzstone.net,REJECT
 HOST-SUFFIX,sdk-ab-config.aiclk.com,REJECT
 HOST-SUFFIX,sdk-ab-config.qquanquan.com,REJECT
+HOST-SUFFIX,sdk-ab-config.yunxish.com,REJECT
 HOST-SUFFIX,sdk-cache.video.ptqy.gitv.tv,REJECT
 HOST-SUFFIX,sdk-config.tanx.com,REJECT
 HOST-SUFFIX,sdk-data.ubixioe.com,REJECT
@@ -14490,6 +14497,7 @@ HOST-SUFFIX,uspauline.com,REJECT
 HOST-SUFFIX,usphfiona.com,REJECT
 HOST-SUFFIX,usr-api.1sapp.com,REJECT
 HOST-SUFFIX,usr-api.aiclk.com,REJECT
+HOST-SUFFIX,usr-api.yunxish.com,REJECT
 HOST-SUFFIX,usr.mgid.com,REJECT
 HOST-SUFFIX,usrzh.cn,REJECT
 HOST-SUFFIX,uss-pid.lenovomm.com,REJECT
@@ -14584,6 +14592,7 @@ HOST-SUFFIX,v2.log.hunantv.com,REJECT
 HOST-SUFFIX,v2.oskwai.com,REJECT
 HOST-SUFFIX,v2.reachmax.cn,REJECT
 HOST-SUFFIX,v2.uyan.cc,REJECT
+HOST-SUFFIX,v2.yunxish.com,REJECT
 HOST-SUFFIX,v20.events.data.microsoft.com,REJECT
 HOST-SUFFIX,v26-reading.qznovelvod.com,REJECT
 HOST-SUFFIX,v27rdv-oswguv4f0j2t-007.pmwgmg.cn,REJECT

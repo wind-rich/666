@@ -2,13 +2,13 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-29 03:22:13（北京时间）
+! Version: 2026-07-29 10:34:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16694
+! Total count: 16703
 # Title: Hosts Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-28 19:22:12（北京时间）
+# Last Updated: 2026-07-29 02:34:01（北京时间）
 0.0.0.0 -normal-lq.zijieapi.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 000123456789.online
@@ -2043,6 +2043,7 @@
 0.0.0.0 adx-api.jinmo.tech
 0.0.0.0 adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
+0.0.0.0 adx-bj.statisticslinks.com
 0.0.0.0 adx-cfg-u1.ubixioe.com
 0.0.0.0 adx-cn.ads.vungle.com
 0.0.0.0 adx-cn.anythinktech.com
@@ -2453,6 +2454,7 @@
 0.0.0.0 api.1101yh.com
 0.0.0.0 api.36dfsa.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.ad.xiaomi.coms
 0.0.0.0 api.admange.com
 0.0.0.0 api.ads66.com
 0.0.0.0 api.adserver.jvmai.com
@@ -2584,6 +2586,7 @@
 0.0.0.0 api.yfanads.com
 0.0.0.0 api.youtu.qq.com
 0.0.0.0 api.youxiaoad.com
+0.0.0.0 api.yunxish.com
 0.0.0.0 api.zol.com
 0.0.0.0 api01pbmp.zhuishushenqi.com
 0.0.0.0 api02u58f.zhuishushenqi.com
@@ -3879,6 +3882,7 @@
 0.0.0.0 cdn.xianliao.me
 0.0.0.0 cdn.xinstall.com
 0.0.0.0 cdn.yunliunet.com
+0.0.0.0 cdn.yunxish.com
 0.0.0.0 cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
 0.0.0.0 cdn0.mobmore.com
@@ -4357,6 +4361,7 @@
 0.0.0.0 cp.jz5u.net
 0.0.0.0 cpatrk.net
 0.0.0.0 cpc-service-square.aiclk.com
+0.0.0.0 cpc-service-square.yunxish.com
 0.0.0.0 cpc.sogou.com
 0.0.0.0 cpc.sohu.com
 0.0.0.0 cpcv.cc
@@ -12020,6 +12025,7 @@
 0.0.0.0 rcv.mobad.ijinshan.com
 0.0.0.0 rcv.moogos.com
 0.0.0.0 rcv.union-wifi.com
+0.0.0.0 rcv.yunxish.com
 0.0.0.0 rcyy3.kaopuwangjz.com
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 rd.autohome.com.cn
@@ -12598,6 +12604,7 @@
 0.0.0.0 sdhzstone.net
 0.0.0.0 sdk-ab-config.aiclk.com
 0.0.0.0 sdk-ab-config.qquanquan.com
+0.0.0.0 sdk-ab-config.yunxish.com
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 0.0.0.0 sdk-config.tanx.com
 0.0.0.0 sdk-data.ubixioe.com
@@ -14495,6 +14502,7 @@
 0.0.0.0 usphfiona.com
 0.0.0.0 usr-api.1sapp.com
 0.0.0.0 usr-api.aiclk.com
+0.0.0.0 usr-api.yunxish.com
 0.0.0.0 usr.mgid.com
 0.0.0.0 usrzh.cn
 0.0.0.0 uss-pid.lenovomm.com
@@ -14589,6 +14597,7 @@
 0.0.0.0 v2.oskwai.com
 0.0.0.0 v2.reachmax.cn
 0.0.0.0 v2.uyan.cc
+0.0.0.0 v2.yunxish.com
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 v26-reading.qznovelvod.com
 0.0.0.0 v27rdv-oswguv4f0j2t-007.pmwgmg.cn

@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-29 03:22:13（北京时间）
+! Version: 2026-07-29 10:34:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27919
+! Total count: 27929
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11668,6 +11668,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-display.wikawika.xyz^
 ||ad-download.hismarttv.com^
 ||ad-drs-ipv6.52qumao.com^
+||ad-drs.52qumao.com
 ||ad-drs.52qumao.com^
 ||ad-ga.nocode.com^
 ||ad-gb.mgid.com^
@@ -12585,6 +12586,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-api.jinmo.tech^
 ||adx-bj-req.anythinktech.com^
 ||adx-bj.anythinktech.com^
+||adx-bj.statisticslinks.com^
 ||adx-cfg-u1.ubixioe.com^
 ||adx-cn.ads.vungle.com^
 ||adx-cn.anythinktech.com^
@@ -13017,6 +13019,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.1101yh.com^
 ||api.36dfsa.com^
 ||api.ad.xiaomi.com^
+||api.ad.xiaomi.coms^
 ||api.admange.com^
 ||api.ads66.com^
 ||api.adserver.jvmai.com^
@@ -13152,6 +13155,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.yfanads.com^
 ||api.youtu.qq.com^
 ||api.youxiaoad.com^
+||api.yunxish.com^
 ||api.zhihu.com/ab/*^
 ||api.zhihu.com/ad-style-service
 ||api.zol.com^
@@ -14511,6 +14515,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.xinstall.com^
 ||cdn.ynuf.aliapp.org^
 ||cdn.yunliunet.com^
+||cdn.yunxish.com^
 ||cdn.zampda.net^
 ||cdn.zampdsp.com^
 ||cdn0.mobmore.com^
@@ -15009,6 +15014,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cp.jz5u.net^
 ||cpatrk.net^
 ||cpc-service-square.aiclk.com^
+||cpc-service-square.yunxish.com^
 ||cpc.sogou.com^
 ||cpc.sohu.com^
 ||cpcv.cc^
@@ -23040,6 +23046,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rcv.mobad.ijinshan.com^
 ||rcv.moogos.com^
 ||rcv.union-wifi.com^
+||rcv.yunxish.com^
 ||rcyy3.kaopuwangjz.com^
 ||rd.ane.yahoo.co.jp^
 ||rd.autohome.com.cn^
@@ -23636,6 +23643,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdhzstone.net^
 ||sdk-ab-config.aiclk.com^
 ||sdk-ab-config.qquanquan.com^
+||sdk-ab-config.yunxish.com^
 ||sdk-api.beizi.biz^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk-config.tanx.com^
@@ -25627,6 +25635,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||usphfiona.com^
 ||usr-api.1sapp.com^
 ||usr-api.aiclk.com^
+||usr-api.yunxish.com^
 ||usr.mgid.com^
 ||usrzh.cn^
 ||uss-pid.lenovomm.com^
@@ -25727,6 +25736,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||v2.oskwai.com^
 ||v2.reachmax.cn^
 ||v2.uyan.cc^
+||v2.yunxish.com^
 ||v20.events.data.microsoft.com^
 ||v26-reading.qznovelvod.com^
 ||v27rdv-oswguv4f0j2t-007.pmwgmg.cn^

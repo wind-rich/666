@@ -1,9 +1,9 @@
 # Title: Clash Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-28 19:22:12（北京时间）
-# Clash规则数量: 16689
-! Total count: 16689
+# Last Updated: 2026-07-29 02:34:01（北京时间）
+# Clash规则数量: 16698
+! Total count: 16698
 rules:
   - DOMAIN-SUFFIX,-normal-lq.zijieapi.com,REJECT
   - DOMAIN-SUFFIX,0.r.msn.com,REJECT
@@ -2039,6 +2039,7 @@ rules:
   - DOMAIN-SUFFIX,adx-api.jinmo.tech,REJECT
   - DOMAIN-SUFFIX,adx-bj-req.anythinktech.com,REJECT
   - DOMAIN-SUFFIX,adx-bj.anythinktech.com,REJECT
+  - DOMAIN-SUFFIX,adx-bj.statisticslinks.com,REJECT
   - DOMAIN-SUFFIX,adx-cfg-u1.ubixioe.com,REJECT
   - DOMAIN-SUFFIX,adx-cn.ads.vungle.com,REJECT
   - DOMAIN-SUFFIX,adx-cn.anythinktech.com,REJECT
@@ -2449,6 +2450,7 @@ rules:
   - DOMAIN-SUFFIX,api.1101yh.com,REJECT
   - DOMAIN-SUFFIX,api.36dfsa.com,REJECT
   - DOMAIN-SUFFIX,api.ad.xiaomi.com,REJECT
+  - DOMAIN-SUFFIX,api.ad.xiaomi.coms,REJECT
   - DOMAIN-SUFFIX,api.admange.com,REJECT
   - DOMAIN-SUFFIX,api.ads66.com,REJECT
   - DOMAIN-SUFFIX,api.adserver.jvmai.com,REJECT
@@ -2580,6 +2582,7 @@ rules:
   - DOMAIN-SUFFIX,api.yfanads.com,REJECT
   - DOMAIN-SUFFIX,api.youtu.qq.com,REJECT
   - DOMAIN-SUFFIX,api.youxiaoad.com,REJECT
+  - DOMAIN-SUFFIX,api.yunxish.com,REJECT
   - DOMAIN-SUFFIX,api.zol.com,REJECT
   - DOMAIN-SUFFIX,api01pbmp.zhuishushenqi.com,REJECT
   - DOMAIN-SUFFIX,api02u58f.zhuishushenqi.com,REJECT
@@ -3875,6 +3878,7 @@ rules:
   - DOMAIN-SUFFIX,cdn.xianliao.me,REJECT
   - DOMAIN-SUFFIX,cdn.xinstall.com,REJECT
   - DOMAIN-SUFFIX,cdn.yunliunet.com,REJECT
+  - DOMAIN-SUFFIX,cdn.yunxish.com,REJECT
   - DOMAIN-SUFFIX,cdn.zampda.net,REJECT
   - DOMAIN-SUFFIX,cdn.zampdsp.com,REJECT
   - DOMAIN-SUFFIX,cdn0.mobmore.com,REJECT
@@ -4353,6 +4357,7 @@ rules:
   - DOMAIN-SUFFIX,cp.jz5u.net,REJECT
   - DOMAIN-SUFFIX,cpatrk.net,REJECT
   - DOMAIN-SUFFIX,cpc-service-square.aiclk.com,REJECT
+  - DOMAIN-SUFFIX,cpc-service-square.yunxish.com,REJECT
   - DOMAIN-SUFFIX,cpc.sogou.com,REJECT
   - DOMAIN-SUFFIX,cpc.sohu.com,REJECT
   - DOMAIN-SUFFIX,cpcv.cc,REJECT
@@ -12016,6 +12021,7 @@ rules:
   - DOMAIN-SUFFIX,rcv.mobad.ijinshan.com,REJECT
   - DOMAIN-SUFFIX,rcv.moogos.com,REJECT
   - DOMAIN-SUFFIX,rcv.union-wifi.com,REJECT
+  - DOMAIN-SUFFIX,rcv.yunxish.com,REJECT
   - DOMAIN-SUFFIX,rcyy3.kaopuwangjz.com,REJECT
   - DOMAIN-SUFFIX,rd.ane.yahoo.co.jp,REJECT
   - DOMAIN-SUFFIX,rd.autohome.com.cn,REJECT
@@ -12594,6 +12600,7 @@ rules:
   - DOMAIN-SUFFIX,sdhzstone.net,REJECT
   - DOMAIN-SUFFIX,sdk-ab-config.aiclk.com,REJECT
   - DOMAIN-SUFFIX,sdk-ab-config.qquanquan.com,REJECT
+  - DOMAIN-SUFFIX,sdk-ab-config.yunxish.com,REJECT
   - DOMAIN-SUFFIX,sdk-cache.video.ptqy.gitv.tv,REJECT
   - DOMAIN-SUFFIX,sdk-config.tanx.com,REJECT
   - DOMAIN-SUFFIX,sdk-data.ubixioe.com,REJECT
@@ -14491,6 +14498,7 @@ rules:
   - DOMAIN-SUFFIX,usphfiona.com,REJECT
   - DOMAIN-SUFFIX,usr-api.1sapp.com,REJECT
   - DOMAIN-SUFFIX,usr-api.aiclk.com,REJECT
+  - DOMAIN-SUFFIX,usr-api.yunxish.com,REJECT
   - DOMAIN-SUFFIX,usr.mgid.com,REJECT
   - DOMAIN-SUFFIX,usrzh.cn,REJECT
   - DOMAIN-SUFFIX,uss-pid.lenovomm.com,REJECT
@@ -14585,6 +14593,7 @@ rules:
   - DOMAIN-SUFFIX,v2.oskwai.com,REJECT
   - DOMAIN-SUFFIX,v2.reachmax.cn,REJECT
   - DOMAIN-SUFFIX,v2.uyan.cc,REJECT
+  - DOMAIN-SUFFIX,v2.yunxish.com,REJECT
   - DOMAIN-SUFFIX,v20.events.data.microsoft.com,REJECT
   - DOMAIN-SUFFIX,v26-reading.qznovelvod.com,REJECT
   - DOMAIN-SUFFIX,v27rdv-oswguv4f0j2t-007.pmwgmg.cn,REJECT

@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-29 03:22:13（北京时间）
+! Version: 2026-07-29 10:34:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16693
+! Total count: 16702
 # AdClose 专用广告规则
-# 生成时间: 2026-07-28 19:22:12（北京时间）
+# 生成时间: 2026-07-29 02:34:01（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -2042,6 +2042,7 @@ domain, adx-api.hupu.com
 domain, adx-api.jinmo.tech
 domain, adx-bj-req.anythinktech.com
 domain, adx-bj.anythinktech.com
+domain, adx-bj.statisticslinks.com
 domain, adx-cfg-u1.ubixioe.com
 domain, adx-cn.ads.vungle.com
 domain, adx-cn.anythinktech.com
@@ -2452,6 +2453,7 @@ domain, api.06fgej.com
 domain, api.1101yh.com
 domain, api.36dfsa.com
 domain, api.ad.xiaomi.com
+domain, api.ad.xiaomi.coms
 domain, api.admange.com
 domain, api.ads66.com
 domain, api.adserver.jvmai.com
@@ -2583,6 +2585,7 @@ domain, api.yangqianguan.com
 domain, api.yfanads.com
 domain, api.youtu.qq.com
 domain, api.youxiaoad.com
+domain, api.yunxish.com
 domain, api.zol.com
 domain, api01pbmp.zhuishushenqi.com
 domain, api02u58f.zhuishushenqi.com
@@ -3878,6 +3881,7 @@ domain, cdn.xiangkanwang.com
 domain, cdn.xianliao.me
 domain, cdn.xinstall.com
 domain, cdn.yunliunet.com
+domain, cdn.yunxish.com
 domain, cdn.zampda.net
 domain, cdn.zampdsp.com
 domain, cdn0.mobmore.com
@@ -4356,6 +4360,7 @@ domain, cp.jfcdns.com
 domain, cp.jz5u.net
 domain, cpatrk.net
 domain, cpc-service-square.aiclk.com
+domain, cpc-service-square.yunxish.com
 domain, cpc.sogou.com
 domain, cpc.sohu.com
 domain, cpcv.cc
@@ -12019,6 +12024,7 @@ domain, rcv.jesgoo.com
 domain, rcv.mobad.ijinshan.com
 domain, rcv.moogos.com
 domain, rcv.union-wifi.com
+domain, rcv.yunxish.com
 domain, rcyy3.kaopuwangjz.com
 domain, rd.ane.yahoo.co.jp
 domain, rd.autohome.com.cn
@@ -12597,6 +12603,7 @@ domain, sdhuawen.cn
 domain, sdhzstone.net
 domain, sdk-ab-config.aiclk.com
 domain, sdk-ab-config.qquanquan.com
+domain, sdk-ab-config.yunxish.com
 domain, sdk-cache.video.ptqy.gitv.tv
 domain, sdk-config.tanx.com
 domain, sdk-data.ubixioe.com
@@ -14494,6 +14501,7 @@ domain, uspauline.com
 domain, usphfiona.com
 domain, usr-api.1sapp.com
 domain, usr-api.aiclk.com
+domain, usr-api.yunxish.com
 domain, usr.mgid.com
 domain, usrzh.cn
 domain, uss-pid.lenovomm.com
@@ -14588,6 +14596,7 @@ domain, v2.log.hunantv.com
 domain, v2.oskwai.com
 domain, v2.reachmax.cn
 domain, v2.uyan.cc
+domain, v2.yunxish.com
 domain, v20.events.data.microsoft.com
 domain, v26-reading.qznovelvod.com
 domain, v27rdv-oswguv4f0j2t-007.pmwgmg.cn
