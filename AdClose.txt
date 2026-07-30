@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-30 16:25:22（北京时间）
+! Version: 2026-07-30 21:58:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 16701
 # AdClose 专用广告规则
-# 生成时间: 2026-07-30 08:25:21（北京时间）
+# 生成时间: 2026-07-30 13:58:56（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -403,7 +403,6 @@ domain, 361.trafficmanager.net
 domain, 361315.cc
 domain, 365bibi.com
 domain, 365safego.com
-domain, 365yg.com
 domain, 366safego.com
 domain, 36htg.fun
 domain, 36mghtd.xyz
@@ -2268,6 +2267,7 @@ domain, aliyunxin.com
 domain, all.orfr.adgtw.orangeads.fr
 domain, all.rising.com.cn
 domain, allcp.xyz
+domain, alliance.jinritemai.com
 domain, allnews.uodoo.com
 domain, allxin.com
 domain, allykitchen.com
@@ -2297,7 +2297,6 @@ domain, amazon-adsystem.com
 domain, amazonaax.com
 domain, amcn.bytedance.com
 domain, amdc.alipay.com
-domain, amemv.com
 domain, amerzbj.cn
 domain, amfi.gou.sogou.com
 domain, amiok.org
@@ -3403,6 +3402,7 @@ domain, br.blackfling.com
 domain, br.fling.com
 domain, br.realitykings.com
 domain, brakefluid.website
+domain, brand.oceanengine.com
 domain, brand.sogou.com
 domain, brandadsstatic.vivo.com.cn
 domain, brandlog.vivo.com.cn
@@ -7229,7 +7229,6 @@ domain, hunpingou.com
 domain, huodong.pl.youku.com
 domain, huodong.vip.youku.com
 domain, huoju.asia
-domain, huoshanzhibo.com
 domain, hushenqiquan.com
 domain, huskieaccess.bugly.qq.com
 domain, hv.code.tanwanyx.com
@@ -10050,6 +10049,7 @@ domain, mission-pub.smart-tv.cn
 domain, miui-fxcse.avlyun.com
 domain, miui.hdfdm.com
 domain, miui.hftaili.com
+domain, mix.jinritemai.com
 domain, mixer.cupid.ptqy.gitv.tv
 domain, miyushu.com
 domain, mj70.cn
@@ -10457,7 +10457,6 @@ domain, nefbjp.xyz
 domain, nefrpt.top
 domain, neg2zos.icu
 domain, neghes.fun
-domain, neihanshequ.com
 domain, neihhou.com
 domain, neiod.xyz
 domain, neirong.baidu.com
@@ -12254,6 +12253,7 @@ domain, rt.applovin.com
 domain, rt.applvn.com
 domain, rt.funshion.net
 domain, rt.gsspat.jp
+domain, rtapplog.snssdk.com
 domain, rtas.videocc.net
 domain, rtax.criteo.com
 domain, rtb-p.kejet.net
@@ -12268,6 +12268,7 @@ domain, rtborp.xyz
 domain, rtbstat.zcdsp.com
 domain, rte.fuoo1.top
 domain, rtjmln.xyz
+domain, rtlog.snssdk.com
 domain, rtlog.vidown.cn
 domain, rtlog.zijieapi.com
 domain, rtlog3-applog-lq.fqnovel.com
@@ -16177,7 +16178,6 @@ domain, yonsandileer.com
 domain, yoo.yiiyoo.net
 domain, yooli.com
 domain, you1ad.com
-domain, youdianyisi.com
 domain, youfumei.com
 domain, youjia2016.com
 domain, youjiudilai.com

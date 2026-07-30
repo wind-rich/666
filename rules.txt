@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-07-30 16:25:22（北京时间）
+! Version: 2026-07-30 21:58:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27973
+! Total count: 27975
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -6798,7 +6798,6 @@
 ?local_ga_js=
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
-@@down.360safe.com^
 @@gimg*.baidu.com/gimg/app=$domain=kimivod.com
 @@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
@@ -8738,6 +8737,7 @@
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||p9-heycan-hgt-sign.byteimg.com^
@@ -9300,6 +9300,7 @@
 @@||thefantazy.com^
 @@||theme.heytapimage.com^
 @@||themis.soulapp.cn^
+@@||themoviedb.org/assets/
 @@||theporndude.com^
 @@||thirdqq.qlogo.cn^
 @@||thirdwx.qlogo.cn^
@@ -10907,7 +10908,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||361315.cc^
 ||365bibi.com^
 ||365safego.com^
-||365yg.com^
 ||366safego.com^
 ||36htg.fun^
 ||36mghtd.xyz^
@@ -12863,6 +12863,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||all.orfr.adgtw.orangeads.fr^
 ||all.rising.com.cn^
 ||allcp.xyz^
+||alliance.jinritemai.com^
 ||allnews.uodoo.com^
 ||allxin.com^
 ||allykitchen.com^
@@ -12895,7 +12896,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
-||amemv.com^
 ||amerzbj.cn^
 ||amfi.gou.sogou.com^
 ||amiok.org^
@@ -14063,6 +14063,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||br.fling.com^
 ||br.realitykings.com^
 ||brakefluid.website^
+||brand.oceanengine.com^
 ||brand.sogou.com^
 ||brandadsstatic.vivo.com.cn^
 ||brandlog.vivo.com.cn^
@@ -18046,7 +18047,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||huodong.pl.youku.com^
 ||huodong.vip.youku.com^
 ||huoju.asia^
-||huoshanzhibo.com^
 ||hushenqiquan.com^
 ||huskieaccess.bugly.qq.com^
 ||hv.code.tanwanyx.com^
@@ -20994,6 +20994,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||miui-fxcse.avlyun.com^
 ||miui.hdfdm.com^
 ||miui.hftaili.com^
+||mix.jinritemai.com^
 ||mixer.cupid.ptqy.gitv.tv^
 ||mixer.sina.cn^
 ||miyushu.com^
@@ -21429,7 +21430,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nefrpt.top^
 ||neg2zos.icu^
 ||neghes.fun^
-||neihanshequ.com^
 ||neihhou.com^
 ||neiod.xyz^
 ||neirong.baidu.com^
@@ -21961,6 +21961,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||p*-ad-sign.byteimg.com^
 ||p*-ad.adukwai.com^
 ||p*-ad.bytecdn.cn
+||p*-ad.bytecdn.cn^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-ff.adkwai.com^
 ||p*-lm.adkwai.com^
@@ -23328,6 +23329,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rt.applvn.com^
 ||rt.funshion.net^
 ||rt.gsspat.jp^
+||rtapplog.snssdk.com^
 ||rtas.videocc.net^
 ||rtax.criteo.com^
 ||rtb-p.kejet.net^
@@ -23343,6 +23345,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rte.fuoo1.top^
 ||rtjmln.xyz^
 ||rtlog*-applog-lq.fqnovel.com^
+||rtlog.snssdk.com^
 ||rtlog.vidown.cn^
 ||rtlog.zijieapi.com^
 ||rtlog3-applog-lq.fqnovel.com^
@@ -27421,7 +27424,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yoo.yiiyoo.net^
 ||yooli.com^
 ||you1ad.com^
-||youdianyisi.com^
 ||youfumei.com^
 ||youjia2016.com^
 ||youjiudilai.com^

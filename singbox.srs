@@ -1,7 +1,7 @@
 # Title: SingBox SRS Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-07-30 08:25:21（北京时间）
+# Last Updated: 2026-07-30 13:58:56（北京时间）
 # Singbox规则数量: 16697
 ! Total count: 16697
 DOMAIN-SUFFIX,-normal-lq.zijieapi.com,REJECT
@@ -399,7 +399,6 @@ DOMAIN-SUFFIX,361.trafficmanager.net,REJECT
 DOMAIN-SUFFIX,361315.cc,REJECT
 DOMAIN-SUFFIX,365bibi.com,REJECT
 DOMAIN-SUFFIX,365safego.com,REJECT
-DOMAIN-SUFFIX,365yg.com,REJECT
 DOMAIN-SUFFIX,366safego.com,REJECT
 DOMAIN-SUFFIX,36htg.fun,REJECT
 DOMAIN-SUFFIX,36mghtd.xyz,REJECT
@@ -2264,6 +2263,7 @@ DOMAIN-SUFFIX,aliyunxin.com,REJECT
 DOMAIN-SUFFIX,all.orfr.adgtw.orangeads.fr,REJECT
 DOMAIN-SUFFIX,all.rising.com.cn,REJECT
 DOMAIN-SUFFIX,allcp.xyz,REJECT
+DOMAIN-SUFFIX,alliance.jinritemai.com,REJECT
 DOMAIN-SUFFIX,allnews.uodoo.com,REJECT
 DOMAIN-SUFFIX,allxin.com,REJECT
 DOMAIN-SUFFIX,allykitchen.com,REJECT
@@ -2293,7 +2293,6 @@ DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,amazonaax.com,REJECT
 DOMAIN-SUFFIX,amcn.bytedance.com,REJECT
 DOMAIN-SUFFIX,amdc.alipay.com,REJECT
-DOMAIN-SUFFIX,amemv.com,REJECT
 DOMAIN-SUFFIX,amerzbj.cn,REJECT
 DOMAIN-SUFFIX,amfi.gou.sogou.com,REJECT
 DOMAIN-SUFFIX,amiok.org,REJECT
@@ -3399,6 +3398,7 @@ DOMAIN-SUFFIX,br.blackfling.com,REJECT
 DOMAIN-SUFFIX,br.fling.com,REJECT
 DOMAIN-SUFFIX,br.realitykings.com,REJECT
 DOMAIN-SUFFIX,brakefluid.website,REJECT
+DOMAIN-SUFFIX,brand.oceanengine.com,REJECT
 DOMAIN-SUFFIX,brand.sogou.com,REJECT
 DOMAIN-SUFFIX,brandadsstatic.vivo.com.cn,REJECT
 DOMAIN-SUFFIX,brandlog.vivo.com.cn,REJECT
@@ -7225,7 +7225,6 @@ DOMAIN-SUFFIX,hunpingou.com,REJECT
 DOMAIN-SUFFIX,huodong.pl.youku.com,REJECT
 DOMAIN-SUFFIX,huodong.vip.youku.com,REJECT
 DOMAIN-SUFFIX,huoju.asia,REJECT
-DOMAIN-SUFFIX,huoshanzhibo.com,REJECT
 DOMAIN-SUFFIX,hushenqiquan.com,REJECT
 DOMAIN-SUFFIX,huskieaccess.bugly.qq.com,REJECT
 DOMAIN-SUFFIX,hv.code.tanwanyx.com,REJECT
@@ -10046,6 +10045,7 @@ DOMAIN-SUFFIX,mission-pub.smart-tv.cn,REJECT
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com,REJECT
 DOMAIN-SUFFIX,miui.hdfdm.com,REJECT
 DOMAIN-SUFFIX,miui.hftaili.com,REJECT
+DOMAIN-SUFFIX,mix.jinritemai.com,REJECT
 DOMAIN-SUFFIX,mixer.cupid.ptqy.gitv.tv,REJECT
 DOMAIN-SUFFIX,miyushu.com,REJECT
 DOMAIN-SUFFIX,mj70.cn,REJECT
@@ -10453,7 +10453,6 @@ DOMAIN-SUFFIX,nefbjp.xyz,REJECT
 DOMAIN-SUFFIX,nefrpt.top,REJECT
 DOMAIN-SUFFIX,neg2zos.icu,REJECT
 DOMAIN-SUFFIX,neghes.fun,REJECT
-DOMAIN-SUFFIX,neihanshequ.com,REJECT
 DOMAIN-SUFFIX,neihhou.com,REJECT
 DOMAIN-SUFFIX,neiod.xyz,REJECT
 DOMAIN-SUFFIX,neirong.baidu.com,REJECT
@@ -12250,6 +12249,7 @@ DOMAIN-SUFFIX,rt.applovin.com,REJECT
 DOMAIN-SUFFIX,rt.applvn.com,REJECT
 DOMAIN-SUFFIX,rt.funshion.net,REJECT
 DOMAIN-SUFFIX,rt.gsspat.jp,REJECT
+DOMAIN-SUFFIX,rtapplog.snssdk.com,REJECT
 DOMAIN-SUFFIX,rtas.videocc.net,REJECT
 DOMAIN-SUFFIX,rtax.criteo.com,REJECT
 DOMAIN-SUFFIX,rtb-p.kejet.net,REJECT
@@ -12264,6 +12264,7 @@ DOMAIN-SUFFIX,rtborp.xyz,REJECT
 DOMAIN-SUFFIX,rtbstat.zcdsp.com,REJECT
 DOMAIN-SUFFIX,rte.fuoo1.top,REJECT
 DOMAIN-SUFFIX,rtjmln.xyz,REJECT
+DOMAIN-SUFFIX,rtlog.snssdk.com,REJECT
 DOMAIN-SUFFIX,rtlog.vidown.cn,REJECT
 DOMAIN-SUFFIX,rtlog.zijieapi.com,REJECT
 DOMAIN-SUFFIX,rtlog3-applog-lq.fqnovel.com,REJECT
@@ -16173,7 +16174,6 @@ DOMAIN-SUFFIX,yonsandileer.com,REJECT
 DOMAIN-SUFFIX,yoo.yiiyoo.net,REJECT
 DOMAIN-SUFFIX,yooli.com,REJECT
 DOMAIN-SUFFIX,you1ad.com,REJECT
-DOMAIN-SUFFIX,youdianyisi.com,REJECT
 DOMAIN-SUFFIX,youfumei.com,REJECT
 DOMAIN-SUFFIX,youjia2016.com,REJECT
 DOMAIN-SUFFIX,youjiudilai.com,REJECT
