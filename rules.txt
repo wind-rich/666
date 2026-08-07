@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-08-07 07:57:30（北京时间）
+! Version: 2026-08-07 10:51:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27974
+! Total count: 27997
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -10309,12 +10309,15 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.3r5ia7l.xyz^
 ||*.4egscv.com^
 ||*.59p643.com^
+||*.5z3r02h.com^
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
+||*.636371.lifestyle^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
 ||*.8vx3zks.xyz^
+||*.9nm1ol2.com^
 ||*.9tjoj6.com^
 ||*.a48962121.top^
 ||*.acdnrvh.com^
@@ -10324,6 +10327,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.applovin.com^
 ||*.arbyyu.com^
 ||*.awkwla.cn^
+||*.awsrp4.com^
+||*.b26u62v.com^
 ||*.b5gvpk5.com^
 ||*.bg3partner.fun^
 ||*.bg4f8d.com^
@@ -10359,12 +10364,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.fohbgjv.com^
 ||*.fokm37.cn^
 ||*.ft33t3w.pro^
+||*.fyzermq.com^
 ||*.g0d679.com^
 ||*.g9hc4.cn^
 ||*.gdolr.cn^
 ||*.giqnyl.cn^
 ||*.guanaibao.com^
 ||*.h6jv1o.com^
+||*.h9bc7k.top^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -10375,6 +10382,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.jjoiw4.com^
 ||*.jjzemoc3ca.top^
 ||*.jqnljze.xyz^
+||*.jsak628.vip^
 ||*.jtkkkxy.com^
 ||*.juicyads.me^
 ||*.jvere.xyz^
@@ -10388,11 +10396,13 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.ky5683295.cc^
 ||*.laebu.cn^
 ||*.ligmd359543.vip^
+||*.lwaed631.vip^
 ||*.lxclli.cn^
 ||*.lzwrhiw.xyz^
 ||*.md410.cc^
 ||*.mise*.buzz^
 ||*.mkwqj.com^
+||*.mmdf645.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -10419,6 +10429,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.pnwix.cn^
 ||*.poeme.cn^
 ||*.ppfu3m.com^
+||*.pqwxf4b.com^
 ||*.qc.bsccdn.net^
 ||*.qgivvd.cn^
 ||*.qiuxl11.cn^
@@ -10440,6 +10451,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
 ||*.u101vb.com^
+||*.u2ir3v.top^
 ||*.ud9ipy.com^
 ||*.ul2tos.cn^
 ||*.uryxw.com^
@@ -10448,6 +10460,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.va.huya.com^
 ||*.vkomjd.com^
 ||*.voiceads.cn^
+||*.vu1elrx.com^
 ||*.wacaoldy1.com^
 ||*.weilayun.com^
 ||*.wfojsm.com^
@@ -11145,6 +11158,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||6726lmym.top^
 ||6728812.com^
 ||678tl.com^
+||67evjpvdi.com^
 ||685wo.com^
 ||68665565.com^
 ||68710266.com^
@@ -11176,6 +11190,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||6quspne.com^
 ||6tofsu.com^
 ||6tsbe1zs.me^
+||6un45sxmx.com^
 ||6uzxtlv.cn^
 ||6v4.work^
 ||6v6.work^
@@ -15846,6 +15861,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dns2.q2cdn.com^
 ||dns2.titannetwork.cn^
 ||dnvus.com^
+||dnweq5z5g.com^
 ||dnyzbp.cn^
 ||dnzmhr.xyz^
 ||do-not-tracker.org^
@@ -18724,6 +18740,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iyinghua.io/bar/
 ||iytrn.xyz^
 ||izicai.xyz^
+||izq.lwaed633.vip^
 ||j.6avz.com^
 ||j.baminw.cn^
 ||j.biquge520.cc^
@@ -22874,6 +22891,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qos.report.qq.com^
 ||qosp.iqiyi.com^
 ||qosp.msg.71.am^
+||qouy029.top^
 ||qowfknlds.net^
 ||qp.yunanfuwuqi.com^
 ||qp89pj.com^
@@ -22940,6 +22958,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qt62q.top^
 ||qt73q.top^
 ||qtd95fj.online^
+||qthw061.top^
 ||qtienly.top^
 ||qtmdzsj.cn^
 ||qtmojo.cn^
@@ -24541,6 +24560,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||swdownload.apple.com^
 ||switchadhub.com^
 ||switching.atm.punchbox.org^
+||swmshpphnu2.com^
 ||swpgjai.pop.weddingeeos.com^
 ||swquery.apple.com^
 ||swscan.apple.com^
@@ -26425,6 +26445,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wpoarjokzgi.com^
 ||wpwdf.com^
 ||wpwpquse.cn^
+||wpy.jsak634.vip^
 ||wqbapi.veredloanweb.com^
 ||wqbweb.veredloanweb.com^
 ||wqdro6us.icu^
@@ -26534,6 +26555,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.288txt.com/da/*.js
 ||www.35609731.xyz^
 ||www.3aym.cn^
+||www.437944.xyz^
 ||www.510tl.com^
 ||www.517xx.com^
 ||www.51hicard.com^
@@ -26659,6 +26681,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.mt144ti.vip^$important
 ||www.nleljf.xyz^
 ||www.ocfgaa.xyz^
+||www.ompkcy255.vip^
 ||www.ostlon.com^
 ||www.pangle.cn^
 ||www.pangolin-dsp-toutiao.com^

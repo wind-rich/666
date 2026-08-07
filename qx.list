@@ -1,9 +1,9 @@
 # Title: Quantumult X Rules
 # Homepage: https://github.com/qq5460168/AD886
 # by: 酷安@那个谁520
-# Last Updated: 2026-08-06 23:57:29（北京时间）
-# Quantumult X规则数量: 16697
-# ! Total count: 16697
+# Last Updated: 2026-08-07 02:51:14（北京时间）
+# Quantumult X规则数量: 16707
+# ! Total count: 16707
 HOST-SUFFIX,-normal-lq.zijieapi.com,REJECT
 HOST-SUFFIX,0.r.msn.com,REJECT
 HOST-SUFFIX,000123456789.online,REJECT
@@ -621,6 +621,7 @@ HOST-SUFFIX,6711.com,REJECT
 HOST-SUFFIX,6726lmym.top,REJECT
 HOST-SUFFIX,6728812.com,REJECT
 HOST-SUFFIX,678tl.com,REJECT
+HOST-SUFFIX,67evjpvdi.com,REJECT
 HOST-SUFFIX,685wo.com,REJECT
 HOST-SUFFIX,68665565.com,REJECT
 HOST-SUFFIX,68710266.com,REJECT
@@ -651,6 +652,7 @@ HOST-SUFFIX,6osurvos.fn.bytedance.net,REJECT
 HOST-SUFFIX,6quspne.com,REJECT
 HOST-SUFFIX,6tofsu.com,REJECT
 HOST-SUFFIX,6tsbe1zs.me,REJECT
+HOST-SUFFIX,6un45sxmx.com,REJECT
 HOST-SUFFIX,6uzxtlv.cn,REJECT
 HOST-SUFFIX,6v4.work,REJECT
 HOST-SUFFIX,6v6.work,REJECT
@@ -5110,6 +5112,7 @@ HOST-SUFFIX,dns.weixin.qq.com.cn,REJECT
 HOST-SUFFIX,dns2.q2cdn.com,REJECT
 HOST-SUFFIX,dns2.titannetwork.cn,REJECT
 HOST-SUFFIX,dnvus.com,REJECT
+HOST-SUFFIX,dnweq5z5g.com,REJECT
 HOST-SUFFIX,dnyzbp.cn,REJECT
 HOST-SUFFIX,dnzmhr.xyz,REJECT
 HOST-SUFFIX,do-not-tracker.org,REJECT
@@ -7871,6 +7874,7 @@ HOST-SUFFIX,iycwl.com,REJECT
 HOST-SUFFIX,iyes.youku.com,REJECT
 HOST-SUFFIX,iytrn.xyz,REJECT
 HOST-SUFFIX,izicai.xyz,REJECT
+HOST-SUFFIX,izq.lwaed633.vip,REJECT
 HOST-SUFFIX,j.6avz.com,REJECT
 HOST-SUFFIX,j.baminw.cn,REJECT
 HOST-SUFFIX,j.biquge520.cc,REJECT
@@ -11808,6 +11812,7 @@ HOST-SUFFIX,qooic.com,REJECT
 HOST-SUFFIX,qos.report.qq.com,REJECT
 HOST-SUFFIX,qosp.iqiyi.com,REJECT
 HOST-SUFFIX,qosp.msg.71.am,REJECT
+HOST-SUFFIX,qouy029.top,REJECT
 HOST-SUFFIX,qowfknlds.net,REJECT
 HOST-SUFFIX,qp.yunanfuwuqi.com,REJECT
 HOST-SUFFIX,qp89pj.com,REJECT
@@ -11872,6 +11877,7 @@ HOST-SUFFIX,qt002x.corp.youdao.com,REJECT
 HOST-SUFFIX,qt62q.top,REJECT
 HOST-SUFFIX,qt73q.top,REJECT
 HOST-SUFFIX,qtd95fj.online,REJECT
+HOST-SUFFIX,qthw061.top,REJECT
 HOST-SUFFIX,qtienly.top,REJECT
 HOST-SUFFIX,qtmdzsj.cn,REJECT
 HOST-SUFFIX,qtmojo.cn,REJECT
@@ -13407,6 +13413,7 @@ HOST-SUFFIX,swan-api.iqiyi.com,REJECT
 HOST-SUFFIX,swappdl.duoyi.com,REJECT
 HOST-SUFFIX,switchadhub.com,REJECT
 HOST-SUFFIX,switching.atm.punchbox.org,REJECT
+HOST-SUFFIX,swmshpphnu2.com,REJECT
 HOST-SUFFIX,swpgjai.pop.weddingeeos.com,REJECT
 HOST-SUFFIX,swquery.apple.com,REJECT
 HOST-SUFFIX,swwwxww.oss-cn-hangzhou.aliyuncs.com,REJECT
@@ -15211,6 +15218,7 @@ HOST-SUFFIX,wpncdn.com,REJECT
 HOST-SUFFIX,wpoarjokzgi.com,REJECT
 HOST-SUFFIX,wpwdf.com,REJECT
 HOST-SUFFIX,wpwpquse.cn,REJECT
+HOST-SUFFIX,wpy.jsak634.vip,REJECT
 HOST-SUFFIX,wqbapi.veredloanweb.com,REJECT
 HOST-SUFFIX,wqbweb.veredloanweb.com,REJECT
 HOST-SUFFIX,wqdro6us.icu,REJECT
@@ -15316,6 +15324,7 @@ HOST-SUFFIX,www.199tl.com,REJECT
 HOST-SUFFIX,www.200ps.com,REJECT
 HOST-SUFFIX,www.35609731.xyz,REJECT
 HOST-SUFFIX,www.3aym.cn,REJECT
+HOST-SUFFIX,www.437944.xyz,REJECT
 HOST-SUFFIX,www.510tl.com,REJECT
 HOST-SUFFIX,www.517xx.com,REJECT
 HOST-SUFFIX,www.51hicard.com,REJECT
@@ -15431,6 +15440,7 @@ HOST-SUFFIX,www.moneyziyouwm.com,REJECT
 HOST-SUFFIX,www.mqhzdl.com,REJECT
 HOST-SUFFIX,www.nleljf.xyz,REJECT
 HOST-SUFFIX,www.ocfgaa.xyz,REJECT
+HOST-SUFFIX,www.ompkcy255.vip,REJECT
 HOST-SUFFIX,www.ostlon.com,REJECT
 HOST-SUFFIX,www.pangle.cn,REJECT
 HOST-SUFFIX,www.pangolin-dsp-toutiao.com,REJECT
