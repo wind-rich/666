@@ -2,11 +2,11 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-09-08 18:39:51（北京时间）
+! Version: 2026-09-09 00:03:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16713
+! Total count: 16736
 # AdClose 专用广告规则
-# 生成时间: 2026-09-08 10:39:50（北京时间）
+# 生成时间: 2026-09-08 16:03:38（北京时间）
 # 格式：domain, <域名>
 domain, -normal-lq.zijieapi.com
 domain, 0.r.msn.com
@@ -1145,6 +1145,7 @@ domain, acxiom-online.com
 domain, acz.youku.com
 domain, ad-analysis.pconline.com.cn
 domain, ad-android.51wnl.com
+domain, ad-api.4pyun.com
 domain, ad-api.adn-plus.com.cn
 domain, ad-api.morefreegame.com
 domain, ad-audit-provider.soulapp.cn
@@ -1162,6 +1163,7 @@ domain, ad-display.wikawika.xyz
 domain, ad-download.hismarttv.com
 domain, ad-drs-ipv6.52qumao.com
 domain, ad-drs.52qumao.com
+domain, ad-files.4pyun.com
 domain, ad-ga.nocode.com
 domain, ad-gb.mgid.com
 domain, ad-ggtg-api.37.com.cn
@@ -1327,6 +1329,7 @@ domain, ad.m.iqiyi.com
 domain, ad.mail.ru
 domain, ad.mail.sohu.com
 domain, ad.mangareader.net
+domain, ad.maoyan.com
 domain, ad.mazc.org
 domain, ad.mediabong.net
 domain, ad.mesomorphosis.com
@@ -1641,6 +1644,7 @@ domain, adm3.autoimg.cn
 domain, admaji.com
 domain, admarket.21cn.com
 domain, admarket.mobi
+domain, admarketing.yahoo.net
 domain, admaster.com.cn
 domain, admd.yam.com
 domain, admedia.com
@@ -1755,6 +1759,7 @@ domain, ads.cup.com.cn
 domain, ads.daydaycook.com.cn
 domain, ads.exoclick.com
 domain, ads.exosrv.com
+domain, ads.finance.yahoo.com
 domain, ads.flurry.com
 domain, ads.game.iqiyi.com
 domain, ads.games.laohu.com
@@ -2054,6 +2059,7 @@ domain, adx-drcn.op.dbankcloud.cn
 domain, adx-open-service.youku.com
 domain, adx-os-req.anythinktech.com
 domain, adx-os.anythinktech.com
+domain, adx-os.bridgeoos.com
 domain, adx-saas.advlion.com
 domain, adx-static.ksosoft.com
 domain, adx-strategy-api-cn.statisticslinks.com
@@ -2271,6 +2277,7 @@ domain, all.rising.com.cn
 domain, allcp.xyz
 domain, alliance.jinritemai.com
 domain, allnews.uodoo.com
+domain, alltbcsp2p.baidu.com
 domain, allxin.com
 domain, allykitchen.com
 domain, almabelen.com
@@ -4251,6 +4258,7 @@ domain, comesgo.com
 domain, comet.yahoo.com
 domain, commdata.v.qq.com
 domain, commdata6.v.qq.com
+domain, commercial.shouji.360.cn
 domain, commondata.oss-cn-hangzhou.aliyuncs.com
 domain, commonwealthproficient.com
 domain, community.xw.qq.com
@@ -5861,6 +5869,7 @@ domain, events.pingan.com
 domain, events.reddit.com
 domain, events.redditmedia.com
 domain, events3alt.adcolony.com
+domain, eventv1.leidong.rayenergytech.com
 domain, evidhjksdtgyxrh.xyz
 domain, eviltracker.net
 domain, ew16d.package12.com
@@ -7230,8 +7239,10 @@ domain, hujunhao.name
 domain, humanding.com
 domain, hummingexam.com
 domain, hunpingou.com
+domain, huodong.ios.shouji.360.cn
 domain, huodong.pl.youku.com
 domain, huodong.vip.youku.com
+domain, huodong.weibo.cn
 domain, huoju.asia
 domain, hushenqiquan.com
 domain, huskieaccess.bugly.qq.com
@@ -7359,10 +7370,12 @@ domain, iad.g.163.com
 domain, iad0ssl.pcauto.com.cn
 domain, iad0ssl.pconline.com.cn
 domain, iadc.qwapi.com
+domain, iadcontent.apple.com
 domain, iadctest.qwapi.com
 domain, iadfeed.iad.apple.com
 domain, iadmatapk.nosdn.127.net
 domain, iadmatvideo.nosdn.127.net
+domain, iadmoo.apple.com
 domain, iadmusicmat.music.126.net
 domain, iadmusicmatvideo.music.126.net
 domain, iads.xinmin.cn
@@ -7717,6 +7730,7 @@ domain, ini.update.360safe.com
 domain, init.phpwind.com
 domain, init.phpwind.net
 domain, init.startappexchange.com
+domain, init.supersonicads.com
 domain, inkuae.com
 domain, inmobi.cn
 domain, inmobi.com
@@ -7724,6 +7738,7 @@ domain, inmobi.net
 domain, inmobicdn.cn
 domain, inmobicdn.net
 domain, inner-active.mobi
+domain, inner-hw.huazirc.com
 domain, innity.com
 domain, innity.net
 domain, inoprosport.su
@@ -8728,6 +8743,7 @@ domain, kwcmrfb.cn
 domain, kwdgudw.cn
 domain, kwmsg.kuwo.cn
 domain, kwo-0115.cc
+domain, kwpush.kuwo.cn
 domain, kwurl.ucweb.com
 domain, kxcp365.com
 domain, kxlogo.knet.cn
@@ -9170,6 +9186,7 @@ domain, logos.kiwibrowser.com
 domain, logoshejishi.com
 domain, logrcv.aiclk.com
 domain, logrcv.yunxish.com
+domain, logs-bigdata.yeehaw.com.cn
 domain, logs.amap.com
 domain, logs.chelaile.net.cn
 domain, logsdk.qq.com
@@ -9184,6 +9201,7 @@ domain, logstat.kugou.com
 domain, logstat.t.sfht.com
 domain, logtj.kugou.com
 domain, logupdate.avlyun.sec.miui.com
+domain, logv2.ireader.com
 domain, logwebs.kugou.com
 domain, lohdnyz.cn
 domain, loispp.com
@@ -11521,6 +11539,7 @@ domain, profile.ssp.rambler.ru
 domain, profitablecpmratenetwork.com
 domain, projectwonderful.com
 domain, prokyrn.icu
+domain, prom-sdkv2.jysper.net
 domain, prom.b.qq.com
 domain, prom.gome.com.cn
 domain, promo.fileforum.com
@@ -12102,6 +12121,7 @@ domain, renzhen8.cn
 domain, report-sy.adview.cn
 domain, report.cms.qq.com
 domain, report.csslcloud.net
+domain, report.dxunion.cn
 domain, report.imtt.qq.com
 domain, report.meituan.com
 domain, report.migufun.com
@@ -13978,6 +13998,7 @@ domain, track.ucdns.uc.cn
 domain, track.xiachufang.com
 domain, trackapp.guahao.cn
 domain, trackbeat.xiachufang.com
+domain, tracker-prd.aldi.com.cn
 domain, tracker-sns.iqiyi.com
 domain, tracker.gitee.com
 domain, tracker.kugou.com
@@ -14374,6 +14395,7 @@ domain, unilog.wostore.cn
 domain, unimhk.com
 domain, union-httpdns.gslb.yy.com
 domain, union-mlog.bigda.com
+domain, union-record.oss-cn-zhangjiakou.aliyuncs.com
 domain, union-wifi.com
 domain, union.360.cn
 domain, union.6.cn
@@ -16273,6 +16295,7 @@ domain, yukariyakumo.cn
 domain, yukhj.com
 domain, yule8.net
 domain, yulzs.com
+domain, yumao.puata.info
 domain, yumcs.xiaohuau.xyz
 domain, yun-hl.3g.qq.com
 domain, yun.lvehaisen.com

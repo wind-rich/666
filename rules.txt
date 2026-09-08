@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-09-08 18:39:51（北京时间）
+! Version: 2026-09-09 00:03:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 28046
+! Total count: 28069
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -11753,6 +11753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-*file.myqcloud.com^
 ||ad-analysis.pconline.com.cn^
 ||ad-android.51wnl.com^
+||ad-api.4pyun.com^
 ||ad-api.adn-plus.com.cn^
 ||ad-api.morefreegame.com^
 ||ad-audit-provider.soulapp.cn^
@@ -11771,6 +11772,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-drs-ipv6.52qumao.com^
 ||ad-drs.52qumao.com
 ||ad-drs.52qumao.com^
+||ad-files.4pyun.com^
 ||ad-ga.nocode.com^
 ||ad-gb.mgid.com^
 ||ad-ggtg-api.37.com.cn^
@@ -11939,6 +11941,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.mail.ru^
 ||ad.mail.sohu.com^
 ||ad.mangareader.net^
+||ad.maoyan.com^
 ||ad.mazc.org^
 ||ad.mcloud.139.com^
 ||ad.mediabong.net^
@@ -12261,6 +12264,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||admaji.com^
 ||admarket.21cn.com^
 ||admarket.mobi^
+||admarketing.yahoo.net^
 ||admaster.com.cn^
 ||admd.yam.com^
 ||admedia.com^
@@ -12387,6 +12391,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.daydaycook.com.cn^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
+||ads.finance.yahoo.com^
 ||ads.flurry.com^
 ||ads.game.iqiyi.com^
 ||ads.games.laohu.com^
@@ -12698,6 +12703,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-open-service.youku.com^
 ||adx-os-req.anythinktech.com^
 ||adx-os.anythinktech.com^
+||adx-os.bridgeoos.com^
 ||adx-saas.advlion.com^
 ||adx-static.ksosoft.com^
 ||adx-strategy-api-cn.statisticslinks.com^
@@ -12923,6 +12929,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||allcp.xyz^
 ||alliance.jinritemai.com^
 ||allnews.uodoo.com^
+||alltbcsp2p.baidu.com^
 ||allxin.com^
 ||allykitchen.com^
 ||almabelen.com^
@@ -14995,6 +15002,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||comet.yahoo.com^
 ||commdata.v.qq.com^
 ||commdata6.v.qq.com^
+||commercial.shouji.360.cn^
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
 ||commonwealthproficient.com^
 ||community.xw.qq.com^
@@ -16671,6 +16679,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events3alt.adcolony.com^
+||eventv1.leidong.rayenergytech.com^
 ||evidhjksdtgyxrh.xyz^
 ||eviltracker.net^
 ||evtubescms.phncdn.com^
@@ -18105,8 +18114,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||humanding.com^
 ||hummingexam.com^
 ||hunpingou.com^
+||huodong.ios.shouji.360.cn^
 ||huodong.pl.youku.com^
 ||huodong.vip.youku.com^
+||huodong.weibo.cn^
 ||huoju.asia^
 ||hushenqiquan.com^
 ||huskieaccess.bugly.qq.com^
@@ -18238,10 +18249,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iad0ssl.pcauto.com.cn^
 ||iad0ssl.pconline.com.cn^
 ||iadc.qwapi.com^
+||iadcontent.apple.com^
 ||iadctest.qwapi.com^
 ||iadfeed.iad.apple.com^
 ||iadmatapk.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^
+||iadmoo.apple.com^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
 ||iads.xinmin.cn^
@@ -18618,6 +18631,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||init.phpwind.com^
 ||init.phpwind.net^
 ||init.startappexchange.com^
+||init.supersonicads.com^
 ||inkuae.com^
 ||inmobi.cn^
 ||inmobi.com^
@@ -18625,6 +18639,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||inmobicdn.cn^
 ||inmobicdn.net^
 ||inner-active.mobi^
+||inner-hw.huazirc.com^
 ||innity.com^
 ||innity.net^
 ||inoprosport.su^
@@ -19661,6 +19676,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kwdgudw.cn^
 ||kwmsg.kuwo.cn^
 ||kwo-0115.cc^
+||kwpush.kuwo.cn^
 ||kwurl.ucweb.com^
 ||kxcp365.com^
 ||kxlogo.knet.cn^
@@ -20134,6 +20150,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||logoshejishi.com^
 ||logrcv.aiclk.com^
 ||logrcv.yunxish.com^
+||logs-bigdata.yeehaw.com.cn^
 ||logs.amap.com^
 ||logs.chelaile.net.cn^
 ||logsdk.qq.com^
@@ -20148,6 +20165,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||logstat.t.sfht.com^
 ||logtj.kugou.com^
 ||logupdate.avlyun.sec.miui.com^
+||logv2.ireader.com^
 ||logwebs.kugou.com^
 ||lohdnyz.cn^
 ||loispp.com^
@@ -22622,6 +22640,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||profitablecpmratenetwork.com^
 ||projectwonderful.com^
 ||prokyrn.icu^
+||prom-sdkv2.jysper.net^
 ||prom.b.qq.com^
 ||prom.gome.com.cn^
 ||promo.fileforum.com^
@@ -23231,6 +23250,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||report-sy.adview.cn^
 ||report.cms.qq.com^
 ||report.csslcloud.net^
+||report.dxunion.cn^
 ||report.imtt.qq.com^
 ||report.meituan.com^
 ||report.migufun.com^
@@ -25195,6 +25215,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||track.xiachufang.com^
 ||trackapp.guahao.cn^
 ||trackbeat.xiachufang.com^
+||tracker-prd.aldi.com.cn^
 ||tracker-sns.iqiyi.com^
 ||tracker.ai.xiaomi.com^
 ||tracker.gitee.com^
@@ -25609,6 +25630,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||unimhk.com^
 ||union-httpdns.gslb.yy.com^
 ||union-mlog.bigda.com^
+||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||union-wifi.com^
 ||union.360.cn^
 ||union.6.cn^
@@ -27580,6 +27602,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yukhj.com^
 ||yule8.net^
 ||yulzs.com^
+||yumao.puata.info^
 ||yumcs.xiaohuau.xyz^
 ||yun-hl.3g.qq.com^
 ||yun.lvehaisen.com^
