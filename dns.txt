@@ -2,15 +2,15 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2026-10-13 21:38:26（北京时间）
+! Version: 2026-10-14 06:19:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 16747
+! Total count: 16781
 [Adblock Plus 2.0]
 ! Title: 酷安广告规则
 ! Homepage: https://github.com/qq5460168/AD886
 ! by: 酷安@那个谁520
-! Last Updated: 2026-10-13 13:38:26（北京时间）
-! Total Count: 16740
+! Last Updated: 2026-10-13 22:19:12（北京时间）
+! Total Count: 16774
 ||-normal-lq.zijieapi.com^
 ||0.r.msn.com^
 ||000123456789.online^
@@ -1214,7 +1214,9 @@
 ||ad.17173.com^
 ||ad.1kxun.com^
 ||ad.3.cn^
+||ad.360.cn^
 ||ad.360in.com^
+||ad.360safe.com^
 ||ad.360yield.com^
 ||ad.363.in^
 ||ad.3dnews.ru^
@@ -1621,6 +1623,7 @@
 ||adlink.shopsafe.co.nz^
 ||adlive.cn^
 ||adlocus.com^
+||adlog.360.cn^
 ||adlog.flurry.com^
 ||adlog.qingting.fm^
 ||adlog.vivo.com.cn^
@@ -1694,6 +1697,7 @@
 ||adplxmd.com^
 ||adpm.app.qq.com^
 ||adpolestar.net^
+||adpop.360.cn^
 ||adpro.cn^
 ||adpro.pro.cn^
 ||adproxy.autohome.com.cn^
@@ -2007,6 +2011,7 @@
 ||adv-api.shenshiads.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
+||adv.360.cn^
 ||adv.app.qq.com^
 ||adv.bandi.so^
 ||adv.fjtv.net^
@@ -2649,6 +2654,7 @@
 ||app-log.dewu.com^
 ||app-monitor.ele.me^
 ||app-preload.iqiyi.com^
+||app.360.cn^
 ||app.3987.com^
 ||app.9yyg.cn^
 ||app.abc000.today^
@@ -2744,6 +2750,7 @@
 ||appspromote.wostore.cn^
 ||appsrv1.madserving.com^
 ||appsrv4.madserving.com^
+||appstore.360.cn^
 ||appstore.qzone.qq.com^
 ||appstoreort-stsdk.vivo.com.cn^
 ||appstorepnrt-stsdk.vivo.com.cn^
@@ -4124,6 +4131,7 @@
 ||clotfun.mobi^
 ||clotfun.online^
 ||cloud-log.yy.com^
+||cloud.360safe.com^
 ||cloud.codenow.cn^
 ||cloud.shtac.cn^
 ||cloud.zyiis.net^
@@ -4734,6 +4742,7 @@
 ||data-sdk-uuid-report.dreport.meituan.net^
 ||data-track.yingxiong.com^
 ||data-video.71edge.com^
+||data.360.cn^
 ||data.3975.com^
 ||data.ab.qq.com^
 ||data.ad-score.com^
@@ -5925,6 +5934,7 @@
 ||ezraahdn.icu^
 ||ezu6rd5.houge.in^
 ||ezucods.cn^
+||f.360.cn^
 ||f.520tingshu.com^
 ||f.8fenxiang.com^
 ||f.airstar.com^
@@ -6372,6 +6382,7 @@
 ||galopelikeantelope.com^
 ||game-attribute.biligame.com^
 ||game-res.meizu.com^
+||game.360.cn^
 ||game.9xzj.com^
 ||game.baichuanhd.cn^
 ||game.e.kuaishou.com^
@@ -6383,6 +6394,7 @@
 ||game.subway.uu.cc^
 ||game.weibo.cn^
 ||game.weibo.com^
+||gamead.360.cn^
 ||gamead.swjoy.com^
 ||gameads.digyourowngrave.com^
 ||gamebox.kugou.com^
@@ -9117,6 +9129,7 @@
 ||log-verify.hiaiabc.com^
 ||log-verify.mob.com^
 ||log-yex.youdao.com^
+||log.360.cn^
 ||log.8zhuayu.cc^
 ||log.ad.xiaomi.com^
 ||log.aispeech.com^
@@ -9804,6 +9817,7 @@
 ||maphuahin.com^
 ||maplehaze.cn^
 ||maplocatesdksnapshot.d.meituan.net^
+||mapp.360.cn^
 ||mapp.qzone.qq.com^
 ||mapping.yoyi.com.cn^
 ||maps.testing.amap.com^
@@ -9874,7 +9888,9 @@
 ||mcc.inf.miui.com^
 ||mcdwfed.cn^
 ||mcgi.v.qq.com^
+||mclean.cloud.360safe.com^
 ||mclick.simba.taobao.com^
+||mcloud.360.cn^
 ||mclseww.top^
 ||mcore.vcgame.cn^
 ||mcupdate.gstarcad.com^
@@ -10283,6 +10299,7 @@
 ||msclick2.kuwo.cn^
 ||msdk.voiceads.cn^
 ||msdsd2.cn^
+||msg.360.cn^
 ||msg.71.am^
 ||msg.c002.ottcn.com^
 ||msg.ettoday.net^
@@ -10357,6 +10374,7 @@
 ||mv8l4bj34.cc^
 ||mvads.kugou.com^
 ||mvamnng.cn^
+||mvconf.cloud.360safe.com^
 ||mvgucp.com^
 ||mvip.zhuba8.com^
 ||mvlkvth.cn^
@@ -10643,6 +10661,7 @@
 ||northcookie.xyz^
 ||nosup-jd1.127.net^
 ||notes-analytics-events.apple.com^
+||notice.360.cn^
 ||notice.game.xiaomi.com^
 ||notice.iqiyi.com^
 ||notice.uchome.manyou.com^
@@ -11301,6 +11320,7 @@
 ||pic.2u.com.cn^
 ||pic.adver.com.tw^
 ||pic.aihaogou.com.cn^
+||pic.bizhi.360.cn^
 ||pic.by175.com^
 ||pic.casee.cn^
 ||pic.cnmo-img.com.cn^
@@ -11467,6 +11487,7 @@
 ||polkoa.com^
 ||polyfill-js.cn^
 ||pomhz.com^
+||pop.360.cn^
 ||pop.91mangrandi.com^
 ||pop.code.mytanwan.com^
 ||pop.code.poyang.cn^
@@ -11550,6 +11571,7 @@
 ||prom-sdkv2.jysper.net^
 ||prom.b.qq.com^
 ||prom.gome.com.cn^
+||promo.360.cn^
 ||promo.fileforum.com^
 ||promos.fling.com^
 ||promote.biz.weibo.cn^
@@ -11627,6 +11649,7 @@
 ||push-dc.51y5.net^
 ||push-rtmp-spe-l1.douyincdn.com^
 ||push.126.net^
+||push.360.cn^
 ||push.5z5zw.com^
 ||push.air-matters.com^
 ||push.app.autohome.com.cn^
@@ -12091,6 +12114,7 @@
 ||rec.moviebox.baofeng.net^
 ||recds7.icu^
 ||recommend-drcn.hms.dbankcloud.cn^
+||recommend.bizhi.360.cn^
 ||recommender-launcher.hismarttv.com^
 ||recreativ.ru^
 ||recv-vd.gridsumdissector.cn^
@@ -12127,6 +12151,7 @@
 ||renren2.maoyun.tv^
 ||renzhen8.cn^
 ||report-sy.adview.cn^
+||report.360.cn^
 ||report.cms.qq.com^
 ||report.csslcloud.net^
 ||report.dxunion.cn^
@@ -12363,6 +12388,7 @@
 ||s.17173cdn.com^
 ||s.1rtb.net^
 ||s.35kds.com^
+||s.360.cn^
 ||s.5jjx.net^
 ||s.652748.com^
 ||s.6travel.com^
@@ -13066,6 +13092,7 @@
 ||snow001.com^
 ||sns-paopao.iqiyi.com^
 ||sntcbhv.com^
+||so.360.cn^
 ||so.clzgd.com^
 ||so9l.com^
 ||soa-vip-ssl.xunlei.com^
@@ -13106,6 +13133,7 @@
 ||source.youxiaoad.com^
 ||sousuo.xm.sjzhushou.com^
 ||sovelswpq.com^
+||sp.360.cn^
 ||sp.fastclick.net^
 ||sp.gmossp-sp.jp^
 ||sp.wndoor.com^
@@ -13275,6 +13303,7 @@
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
 ||stat.10jqka.com.cn^
+||stat.360.cn^
 ||stat.cnmo.com^
 ||stat.dongqiudi.com^
 ||stat.download.xunlei.com^
@@ -13985,6 +14014,7 @@
 ||tr.byteurl.cn^
 ||tr.iadsdk.apple.com^
 ||tr.medproad.com^
+||trace.360.cn^
 ||trace.aqyad.com^
 ||trace.qq.com^
 ||trace.seeyouyima.com^
@@ -14125,6 +14155,7 @@
 ||tuia.cn^
 ||tuigoo.com^
 ||tuiguang.178.com^
+||tuiguang.360.cn^
 ||tuiguang.meitu.com^
 ||tuiguang.yicha.cn^
 ||tuijian.baidu.com^
@@ -14476,6 +14507,7 @@
 ||uphzxdv.cn^
 ||upload-up.qtfm.cn^
 ||upload-z0.qiniup.com^
+||upload.360.cn^
 ||upload.ksapisrv.com^
 ||upload.luckyorange.net^
 ||upload.xchina.biz^
@@ -14983,6 +15015,7 @@
 ||walle.bayescom.com^
 ||wallet.advcash.com^
 ||wallpaper-1258344696.file.myqcloud.com^
+||wallpaper.360.cn^
 ||wallpaper.apc.360.cn^
 ||wan.2345.com^
 ||wan.rising.cn^
@@ -15248,6 +15281,7 @@
 ||wowanalytics.co.uk^
 ||wowips.com^
 ||wowreality.info^
+||wp.360.cn^
 ||wpadmngr.com^
 ||wpc.32df9.rhocdn.net^
 ||wpcihg.com^
