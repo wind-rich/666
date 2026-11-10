@@ -13335,6 +13335,8 @@
 @@||puui.qpic.cn^
 @@||pv.sohu.com^
 @@||pvip.funshion.com^
+@@||pvp.icreate.qq.com^
+@@||pvp.qq.com^
 @@||px.wpk.quark.cn^
 @@||py.qlogo.cn^
 @@||py2.qlogo.cn^
@@ -14024,6 +14026,7 @@
 @@||woocall.sina.com.cn^
 @@||work.weixin.qq.com^
 @@||world.qpic.cn^
+@@||world.qq.com^
 @@||worldwide.sogou.com^
 @@||wpvip.duba.net^
 @@||wq.360buyimg.com^
@@ -14245,6 +14248,7 @@
 @@||wxmini-api.uyouqu.com^
 @@||wxpay.qpic.cn^
 @@||wxpaylogo.qpic.cn^
+@@||wxq.qq.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
 @@||x.kuwo.cn^
@@ -14279,6 +14283,7 @@
 @@||yeah.163.com^
 @@||yep.com^
 @@||yhd.com^
+@@||yingdi.qq.com^
 @@||yixiu-abtest.alicdn.com^
 @@||ykimg.com^
 @@||ylog.huya.com^
