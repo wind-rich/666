@@ -114,6 +114,7 @@
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
 .xyz:*/js/b.php?v=*
+/(^|[._\/-])ads?([._\/-]|$)/
 /*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
@@ -11960,6 +11961,7 @@
 @@||defaultts.tc.qq.com^
 @@||detail.meizu.com^
 @@||detail.zol.com.cn^
+@@||dev.mi.com^
 @@||dev.miuiflash.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
@@ -12361,6 +12363,7 @@
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
 @@||huluxia.com^
+@@||hyperos.developer.xiaomi.com^
 @@||i.dell.com^
 @@||i.gtimg.cn^
 @@||i.ibb.co^
@@ -12507,6 +12510,7 @@
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.crashsight.qq.com^
+@@||iot.mi.com^
 @@||ip*.ahcdn.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -12864,6 +12868,7 @@
 @@||midas.gtimg.cn^
 @@||mime.baidu.com^
 @@||mimg.127.net^
+@@||mimo.mi.com^
 @@||mini-game-gl.heytapmobile.com^
 @@||mini2015.qq.com^
 @@||miniapp.gtimg.cn^
@@ -21222,6 +21227,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f7853.com^
+||f7qh.top^
 ||f8272.com^
 ||f8ejqxp.cn^
 ||f93kls.uuu671.top^
@@ -31641,6 +31647,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xn--bqro42frpg5up.cn^
 ||xn--czru2dx3eszw3lat53b.com^
 ||xn--gov-x68dy61b.shop^
+||xn--jc2a749bpa.com^
 ||xn--jor0b302fdhgwnccw8g.com^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
